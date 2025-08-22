@@ -1,0 +1,306 @@
+{
+    "P890919549": {
+        "name": "CONQUIMICA S.A.S",
+        "processed_at": "2025-05-30 16:06:37"
+    },
+    "P890940567": {
+        "name": "PAPELCARD S.A.S.",
+        "processed_at": "2025-05-30 16:06:39"
+    },
+    "P900460838": {
+        "name": "TERMOPAK SAS",
+        "processed_at": "2025-05-30 16:06:46"
+    },
+    "P900660194": {
+        "name": "SUMINISTROS Y SOLUCIONES LOGISTICAS S.A.S",
+        "processed_at": "2025-05-30 16:06:49"
+    },
+    "P901238020": {
+        "name": "SIGMAPLASTICOS MAYORISTA SAS",
+        "processed_at": "2025-05-30 16:06:55"
+    },
+    "P800006286": {
+        "name": "PROHESA S.A",
+        "processed_at": "2025-05-30 16:09:26"
+    },
+    "P800015199": {
+        "name": "ANFER SAS",
+        "processed_at": "2025-05-30 16:09:27"
+    },
+    "P800040863": {
+        "name": "AROMAS Y SABORES TECNICOS DE COLOMBIA SA",
+        "processed_at": "2025-05-30 16:09:27"
+    },
+    "P800052705": {
+        "name": "GRAFICAS PAJON SAS",
+        "processed_at": "2025-05-30 16:09:28"
+    },
+    "P800059470": {
+        "name": "ESENTTIA SA",
+        "processed_at": "2025-05-30 16:09:28"
+    },
+    "P800070196": {
+        "name": "TRANSPORTES R G SA",
+        "processed_at": "2025-05-30 16:09:29"
+    },
+    "P800131750": {
+        "name": "INDUSTRIAS CORY SAS",
+        "processed_at": "2025-05-30 16:09:29"
+    },
+    "P800137224": {
+        "name": "QUIMICA INTERKROL LTDA",
+        "processed_at": "2025-05-30 16:09:30"
+    },
+    "P800167047": {
+        "name": "PRESQUIM SAS",
+        "processed_at": "2025-05-30 16:09:30"
+    },
+    "P800201988": {
+        "name": "OPTIFORMAS S. A. S",
+        "processed_at": "2025-05-30 16:09:31"
+    },
+    "P800241469": {
+        "name": "TRANSBORDER SAS",
+        "processed_at": "2025-05-30 16:09:31"
+    },
+    "P800247875": {
+        "name": "BOLTEN LIMITADA",
+        "processed_at": "2025-05-30 16:09:32"
+    },
+    "P800256159": {
+        "name": "PRODUCTOS ESPECIALES SAS",
+        "processed_at": "2025-05-30 16:09:32"
+    },
+    "P811003895": {
+        "name": "IMPRESOS EL DIA SAS",
+        "processed_at": "2025-05-30 16:09:33"
+    },
+    "P811003961": {
+        "name": "COLOMBIANA DE SABORES S.A.S.",
+        "processed_at": "2025-05-30 16:09:33"
+    },
+    "P811006043": {
+        "name": "LITOGRAFIA BERNA SA",
+        "processed_at": "2025-05-30 16:09:34"
+    },
+    "P811007506": {
+        "name": "PERYSA S.A.S",
+        "processed_at": "2025-05-30 16:09:34"
+    },
+    "P811010410": {
+        "name": "ARCOLOR S.A.S",
+        "processed_at": "2025-05-30 16:09:35"
+    },
+    "P811013524": {
+        "name": "ISOPLAST S.AS.",
+        "processed_at": "2025-05-30 16:09:35"
+    },
+    "P811013715": {
+        "name": "LINEA ADHESIVA SAS BIC",
+        "processed_at": "2025-05-30 16:09:36"
+    },
+    "P811023645": {
+        "name": "SOLUCIONES PLASTICAS S.A",
+        "processed_at": "2025-05-30 16:09:36"
+    },
+    "P811024463": {
+        "name": "ENTERPACK LTDA.",
+        "processed_at": "2025-05-30 16:09:37"
+    },
+    "P811027326": {
+        "name": "BELL CHEM INTERNACIONAL SAS",
+        "processed_at": "2025-05-30 16:09:37"
+    },
+    "P811031381": {
+        "name": "TROQUEL FORMAS E.U",
+        "processed_at": "2025-05-30 16:09:38"
+    },
+    "P811036638": {
+        "name": "COLOR LIQUIDO IMPRESION DIGITAL S.A.S",
+        "processed_at": "2025-05-30 16:09:39"
+    },
+    "P811044289": {
+        "name": "GRANPAPEL SAS",
+        "processed_at": "2025-05-30 16:09:39"
+    },
+    "P830027231": {
+        "name": "ROCSA COLOMBIA S.A",
+        "processed_at": "2025-05-30 16:09:40"
+    },
+    "P830070505": {
+        "name": "SPARCOL CHEMICALS",
+        "processed_at": "2025-05-30 16:09:40"
+    },
+    "P830075976": {
+        "name": "TYCO SERVICES SA",
+        "processed_at": "2025-05-30 16:09:41"
+    },
+    "P830079716": {
+        "name": "CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS",
+        "processed_at": "2025-05-30 16:09:41"
+    },
+    "P830116746": {
+        "name": "MERQUIMIA COLOMBIA SA",
+        "processed_at": "2025-05-30 16:09:42"
+    },
+    "P830513254": {
+        "name": "INKJETCOL CIA LTDA",
+        "processed_at": "2025-05-30 16:09:42"
+    },
+    "P860013771": {
+        "name": "AJOVER DARNEL  SAS",
+        "processed_at": "2025-05-30 16:09:42"
+    },
+    "P860502609": {
+        "name": "DHL EXPRESS COLOMBIA LTDA",
+        "processed_at": "2025-05-30 16:09:43"
+    },
+    "P860506204": {
+        "name": "AGENCIA DE ADUANAS CEVA LOGISTICS SAS",
+        "processed_at": "2025-05-30 16:09:43"
+    },
+    "P890920037": {
+        "name": "RAVENNA INDUSTRIAL LTDA",
+        "processed_at": "2025-05-30 16:09:44"
+    },
+    "P890928257": {
+        "name": "ALICO S.A",
+        "processed_at": "2025-05-30 16:09:44"
+    },
+    "P890929647": {
+        "name": "QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S",
+        "processed_at": "2025-05-30 16:09:45"
+    },
+    "P890935947": {
+        "name": "L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS",
+        "processed_at": "2025-05-30 16:09:45"
+    },
+    "P900008166": {
+        "name": "PLASTICOS F.R LTDA",
+        "processed_at": "2025-05-30 16:09:46"
+    },
+    "P900036588": {
+        "name": "TRAMAS LITOGRAFIA LIMITADA",
+        "processed_at": "2025-05-30 16:09:46"
+    },
+    "P900048343": {
+        "name": "DIEMPAQUES",
+        "processed_at": "2025-05-30 16:09:47"
+    },
+    "P900053485": {
+        "name": "QUIMIFAST Y CIA S.A.S.",
+        "processed_at": "2025-05-30 16:09:47"
+    },
+    "P900105338": {
+        "name": "A.F.R. S.A.S",
+        "processed_at": "2025-05-30 16:09:48"
+    },
+    "P900137681": {
+        "name": "CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA",
+        "processed_at": "2025-05-30 16:09:48"
+    },
+    "P900138784": {
+        "name": "INDUSTRIAS PLASTICAS MOSER",
+        "processed_at": "2025-05-30 16:09:49"
+    },
+    "P900347290": {
+        "name": "PARATUAGRO S.A.S",
+        "processed_at": "2025-05-30 16:09:49"
+    },
+    "P900354856": {
+        "name": "TERMOEMPAQUES ALFA S.A.S",
+        "processed_at": "2025-05-30 16:09:50"
+    },
+    "P900367317": {
+        "name": "PLASTICOS MINIPET SAS",
+        "processed_at": "2025-05-30 16:09:50"
+    },
+    "P900406158": {
+        "name": "EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S",
+        "processed_at": "2025-05-30 16:09:51"
+    },
+    "P900411441": {
+        "name": "ALMACEN SOLOENVASES S.A.S.",
+        "processed_at": "2025-05-30 16:09:51"
+    },
+    "P900431011": {
+        "name": "TP COLOMBIA S.A.S",
+        "processed_at": "2025-05-30 16:09:52"
+    },
+    "P900528680": {
+        "name": "FLEXO IMPRESOS S.A.S",
+        "processed_at": "2025-05-30 16:09:52"
+    },
+    "P900534424": {
+        "name": "INDUSTRIAS PLASTICAS BUENOS AIRE SAS",
+        "processed_at": "2025-05-30 16:09:53"
+    },
+    "P900551404": {
+        "name": "ANTIOQUE\u00d1A DE QUIMICOS S.A.S",
+        "processed_at": "2025-05-30 16:09:53"
+    },
+    "P900591818": {
+        "name": "ENTACOL S.A.S",
+        "processed_at": "2025-05-30 16:09:54"
+    },
+    "P900607346": {
+        "name": "SUMINPET SAS",
+        "processed_at": "2025-05-30 16:09:54"
+    },
+    "P900664534": {
+        "name": "KOLOR GRAPHIC SAS",
+        "processed_at": "2025-05-30 16:09:55"
+    },
+    "P900677390": {
+        "name": "HANDLER",
+        "processed_at": "2025-05-30 16:09:55"
+    },
+    "P900738342": {
+        "name": "CALEGO S.A.S",
+        "processed_at": "2025-05-30 16:09:56"
+    },
+    "P900808490": {
+        "name": "SENSORIA FRAGANCIAS SAS",
+        "processed_at": "2025-05-30 16:09:56"
+    },
+    "P900902590": {
+        "name": "CARTAN SAS",
+        "processed_at": "2025-05-30 16:09:57"
+    },
+    "P900926488": {
+        "name": "LAMINATE PACKAGING COLOMBIA SAS",
+        "processed_at": "2025-05-30 16:09:57"
+    },
+    "P900956591": {
+        "name": "BONDENT S.A.S",
+        "processed_at": "2025-05-30 16:09:58"
+    },
+    "P901005878": {
+        "name": "POLYPRINT SAS",
+        "processed_at": "2025-05-30 16:09:58"
+    },
+    "P901062045": {
+        "name": "RESVELTEX SAS",
+        "processed_at": "2025-05-30 16:09:59"
+    },
+    "P901171864": {
+        "name": "SENSO PACK S.A.S",
+        "processed_at": "2025-05-30 16:09:59"
+    },
+    "P901192599": {
+        "name": "CHEM FLUID S.A.S",
+        "processed_at": "2025-05-30 16:10:00"
+    },
+    "P901212096": {
+        "name": "CINTAS SOLUPACK S.A.S",
+        "processed_at": "2025-05-30 16:10:00"
+    },
+    "P901327447": {
+        "name": "BOLTEN SPRAY S.A.S",
+        "processed_at": "2025-05-30 16:10:00"
+    },
+    "P91428879": {
+        "name": "ELVIS ALFREDO CELIS SUAREZ",
+        "processed_at": "2025-05-30 16:10:01"
+    }
+}

@@ -1,0 +1,758 @@
+[2025-05-30 16:06:18] Starting automatic supplier creation process (only processing new/missing suppliers)...
+[2025-05-30 16:06:18] Connecting to database...
+[2025-05-30 16:06:18] Database connection established.
+[2025-05-30 16:06:18] Found 76 total suppliers in the database.
+[2025-05-30 16:06:18] Found 0 already processed suppliers.
+[2025-05-30 16:06:18] Fetching batch of suppliers (offset: 0, limit: 50)...
+[2025-05-30 16:06:18] Creating supplier 1: PROHESA S.A (P800006286)...
+[2025-05-30 16:06:19] FAILED: Supplier PROHESA S.A - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:19] Supplier: PROHESA S.A (P800006286) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:19] Creating supplier 2: ANFER SAS (P800015199)...
+[2025-05-30 16:06:19] FAILED: Supplier ANFER SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:19] Supplier: ANFER SAS (P800015199) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:19] Creating supplier 3: AROMAS Y SABORES TECNICOS DE COLOMBIA SA (P800040863)...
+[2025-05-30 16:06:20] FAILED: Supplier AROMAS Y SABORES TECNICOS DE COLOMBIA SA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:20] Supplier: AROMAS Y SABORES TECNICOS DE COLOMBIA SA (P800040863) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:20] Creating supplier 4: GRAFICAS PAJON SAS (P800052705)...
+[2025-05-30 16:06:20] FAILED: Supplier GRAFICAS PAJON SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:20] Supplier: GRAFICAS PAJON SAS (P800052705) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:20] Creating supplier 5: ESENTTIA SA (P800059470)...
+[2025-05-30 16:06:21] FAILED: Supplier ESENTTIA SA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:21] Supplier: ESENTTIA SA (P800059470) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:21] Creating supplier 6: TRANSPORTES R G SA (P800070196)...
+[2025-05-30 16:06:21] FAILED: Supplier TRANSPORTES R G SA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:21] Supplier: TRANSPORTES R G SA (P800070196) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:21] Creating supplier 7: INDUSTRIAS CORY SAS (P800131750)...
+[2025-05-30 16:06:22] FAILED: Supplier INDUSTRIAS CORY SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:22] Supplier: INDUSTRIAS CORY SAS (P800131750) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:22] Creating supplier 8: QUIMICA INTERKROL LTDA (P800137224)...
+[2025-05-30 16:06:22] FAILED: Supplier QUIMICA INTERKROL LTDA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:22] Supplier: QUIMICA INTERKROL LTDA (P800137224) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:22] Creating supplier 9: PRESQUIM SAS (P800167047)...
+[2025-05-30 16:06:23] FAILED: Supplier PRESQUIM SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:23] Supplier: PRESQUIM SAS (P800167047) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:23] Creating supplier 10: OPTIFORMAS S. A. S (P800201988)...
+[2025-05-30 16:06:23] FAILED: Supplier OPTIFORMAS S. A. S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:23] Supplier: OPTIFORMAS S. A. S (P800201988) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:23] Creating supplier 11: TRANSBORDER SAS (P800241469)...
+[2025-05-30 16:06:24] FAILED: Supplier TRANSBORDER SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:24] Supplier: TRANSBORDER SAS (P800241469) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:24] Creating supplier 12: BOLTEN LIMITADA (P800247875)...
+[2025-05-30 16:06:24] FAILED: Supplier BOLTEN LIMITADA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '4' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:24] Supplier: BOLTEN LIMITADA (P800247875) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '4' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '4' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:24] Creating supplier 13: PRODUCTOS ESPECIALES SAS (P800256159)...
+[2025-05-30 16:06:25] FAILED: Supplier PRODUCTOS ESPECIALES SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:25] Supplier: PRODUCTOS ESPECIALES SAS (P800256159) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:25] Creating supplier 14: IMPRESOS EL DIA SAS (P811003895)...
+[2025-05-30 16:06:25] FAILED: Supplier IMPRESOS EL DIA SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:25] Supplier: IMPRESOS EL DIA SAS (P811003895) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:25] Creating supplier 15: COLOMBIANA DE SABORES S.A.S. (P811003961)...
+[2025-05-30 16:06:26] FAILED: Supplier COLOMBIANA DE SABORES S.A.S. - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:26] Supplier: COLOMBIANA DE SABORES S.A.S. (P811003961) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:26] Creating supplier 16: LITOGRAFIA BERNA SA (P811006043)...
+[2025-05-30 16:06:26] FAILED: Supplier LITOGRAFIA BERNA SA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:26] Supplier: LITOGRAFIA BERNA SA (P811006043) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:26] Creating supplier 17: PERYSA S.A.S (P811007506)...
+[2025-05-30 16:06:27] FAILED: Supplier PERYSA S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:27] Supplier: PERYSA S.A.S (P811007506) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:27] Creating supplier 18: ARCOLOR S.A.S (P811010410)...
+[2025-05-30 16:06:27] FAILED: Supplier ARCOLOR S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:27] Supplier: ARCOLOR S.A.S (P811010410) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:27] Creating supplier 19: ISOPLAST S.AS. (P811013524)...
+[2025-05-30 16:06:28] FAILED: Supplier ISOPLAST S.AS. - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:28] Supplier: ISOPLAST S.AS. (P811013524) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:28] Creating supplier 20: LINEA ADHESIVA SAS BIC (P811013715)...
+[2025-05-30 16:06:28] FAILED: Supplier LINEA ADHESIVA SAS BIC - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:28] Supplier: LINEA ADHESIVA SAS BIC (P811013715) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:28] Creating supplier 21: SOLUCIONES PLASTICAS S.A (P811023645)...
+[2025-05-30 16:06:29] FAILED: Supplier SOLUCIONES PLASTICAS S.A - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:29] Supplier: SOLUCIONES PLASTICAS S.A (P811023645) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:29] Creating supplier 22: ENTERPACK LTDA. (P811024463)...
+[2025-05-30 16:06:29] FAILED: Supplier ENTERPACK LTDA. - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:29] Supplier: ENTERPACK LTDA. (P811024463) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:29] Creating supplier 23: BELL CHEM INTERNACIONAL SAS (P811027326)...
+[2025-05-30 16:06:30] FAILED: Supplier BELL CHEM INTERNACIONAL SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:30] Supplier: BELL CHEM INTERNACIONAL SAS (P811027326) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:30] Creating supplier 24: TROQUEL FORMAS E.U (P811031381)...
+[2025-05-30 16:06:30] FAILED: Supplier TROQUEL FORMAS E.U - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:30] Supplier: TROQUEL FORMAS E.U (P811031381) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:30] Creating supplier 25: COLOR LIQUIDO IMPRESION DIGITAL S.A.S (P811036638)...
+[2025-05-30 16:06:31] FAILED: Supplier COLOR LIQUIDO IMPRESION DIGITAL S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:31] Supplier: COLOR LIQUIDO IMPRESION DIGITAL S.A.S (P811036638) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:31] Creating supplier 26: GRANPAPEL SAS (P811044289)...
+[2025-05-30 16:06:31] FAILED: Supplier GRANPAPEL SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:31] Supplier: GRANPAPEL SAS (P811044289) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:31] Creating supplier 27: ROCSA COLOMBIA S.A (P830027231)...
+[2025-05-30 16:06:32] FAILED: Supplier ROCSA COLOMBIA S.A - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:32] Supplier: ROCSA COLOMBIA S.A (P830027231) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:32] Creating supplier 28: SPARCOL CHEMICALS (P830070505)...
+[2025-05-30 16:06:32] FAILED: Supplier SPARCOL CHEMICALS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:32] Supplier: SPARCOL CHEMICALS (P830070505) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:32] Creating supplier 29: TYCO SERVICES SA (P830075976)...
+[2025-05-30 16:06:33] FAILED: Supplier TYCO SERVICES SA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:33] Supplier: TYCO SERVICES SA (P830075976) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:33] Creating supplier 30: CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (P830079716)...
+[2025-05-30 16:06:33] FAILED: Supplier CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:33] Supplier: CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (P830079716) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:33] Creating supplier 31: MERQUIMIA COLOMBIA SA (P830116746)...
+[2025-05-30 16:06:34] FAILED: Supplier MERQUIMIA COLOMBIA SA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:34] Supplier: MERQUIMIA COLOMBIA SA (P830116746) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:34] Creating supplier 32: INKJETCOL CIA LTDA (P830513254)...
+[2025-05-30 16:06:34] FAILED: Supplier INKJETCOL CIA LTDA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: CodPais
+[2025-05-30 16:06:34] Supplier: INKJETCOL CIA LTDA (P830513254) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: CodPais
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: CodPais","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:34] Creating supplier 33: AJOVER DARNEL  SAS (P860013771)...
+[2025-05-30 16:06:35] FAILED: Supplier AJOVER DARNEL  SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:35] Supplier: AJOVER DARNEL  SAS (P860013771) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:35] Creating supplier 34: DHL EXPRESS COLOMBIA LTDA (P860502609)...
+[2025-05-30 16:06:35] FAILED: Supplier DHL EXPRESS COLOMBIA LTDA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:35] Supplier: DHL EXPRESS COLOMBIA LTDA (P860502609) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:35] Creating supplier 35: AGENCIA DE ADUANAS CEVA LOGISTICS SAS (P860506204)...
+[2025-05-30 16:06:36] FAILED: Supplier AGENCIA DE ADUANAS CEVA LOGISTICS SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:36] Supplier: AGENCIA DE ADUANAS CEVA LOGISTICS SAS (P860506204) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:36] Creating supplier 36: CONQUIMICA S.A.S (P890919549)...
+[2025-05-30 16:06:37] SUCCESS: Supplier CONQUIMICA S.A.S created successfully.
+[2025-05-30 16:06:37] Supplier: CONQUIMICA S.A.S (P890919549) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":274,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P890919549\",\"Nombre\":\"CONQUIMICA S.A.S\",\"Contacto\":\"CATALINA RAMIREZ\",\"Telefono\":\"3720733\",\"Email\":\"julian.gomez@conquimica.com\",\"Fax\":\"\",\"Direccion\":\"CR 42 53 24\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:06:37] Creating supplier 37: RAVENNA INDUSTRIAL LTDA (P890920037)...
+[2025-05-30 16:06:37] FAILED: Supplier RAVENNA INDUSTRIAL LTDA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:37] Supplier: RAVENNA INDUSTRIAL LTDA (P890920037) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:37] Creating supplier 38: ALICO S.A (P890928257)...
+[2025-05-30 16:06:38] FAILED: Supplier ALICO S.A - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:38] Supplier: ALICO S.A (P890928257) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:38] Creating supplier 39: QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S (P890929647)...
+[2025-05-30 16:06:38] FAILED: Supplier QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:38] Supplier: QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S (P890929647) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:38] Creating supplier 40: L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS (P890935947)...
+[2025-05-30 16:06:39] FAILED: Supplier L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:39] Supplier: L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS (P890935947) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:39] Creating supplier 41: PAPELCARD S.A.S. (P890940567)...
+[2025-05-30 16:06:39] SUCCESS: Supplier PAPELCARD S.A.S. created successfully.
+[2025-05-30 16:06:39] Supplier: PAPELCARD S.A.S. (P890940567) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":275,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P890940567\",\"Nombre\":\"PAPELCARD S.A.S.\",\"Contacto\":\"ALEJANDRO QUIROZ\",\"Telefono\":\"3780707\",\"Email\":\"contabilidad@papelcard.com.co\",\"Fax\":\"\",\"Direccion\":\"CR 47 C 79 A SUR 53\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:06:39] Creating supplier 42: PLASTICOS F.R LTDA (P900008166)...
+[2025-05-30 16:06:40] FAILED: Supplier PLASTICOS F.R LTDA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:40] Supplier: PLASTICOS F.R LTDA (P900008166) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:40] Creating supplier 43: TRAMAS LITOGRAFIA LIMITADA (P900036588)...
+[2025-05-30 16:06:40] FAILED: Supplier TRAMAS LITOGRAFIA LIMITADA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:40] Supplier: TRAMAS LITOGRAFIA LIMITADA (P900036588) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:40] Creating supplier 44: DIEMPAQUES (P900048343)...
+[2025-05-30 16:06:41] FAILED: Supplier DIEMPAQUES - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:41] Supplier: DIEMPAQUES (P900048343) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:41] Creating supplier 45: QUIMIFAST Y CIA S.A.S. (P900053485)...
+[2025-05-30 16:06:41] FAILED: Supplier QUIMIFAST Y CIA S.A.S. - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:41] Supplier: QUIMIFAST Y CIA S.A.S. (P900053485) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:41] Creating supplier 46: A.F.R. S.A.S (P900105338)...
+[2025-05-30 16:06:42] FAILED: Supplier A.F.R. S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:42] Supplier: A.F.R. S.A.S (P900105338) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:42] Creating supplier 47: CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA (P900137681)...
+[2025-05-30 16:06:42] FAILED: Supplier CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:42] Supplier: CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA (P900137681) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:42] Creating supplier 48: INDUSTRIAS PLASTICAS MOSER (P900138784)...
+[2025-05-30 16:06:43] FAILED: Supplier INDUSTRIAS PLASTICAS MOSER - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:43] Supplier: INDUSTRIAS PLASTICAS MOSER (P900138784) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:43] Creating supplier 49: PARATUAGRO S.A.S (P900347290)...
+[2025-05-30 16:06:43] FAILED: Supplier PARATUAGRO S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:43] Supplier: PARATUAGRO S.A.S (P900347290) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:43] Creating supplier 50: TERMOEMPAQUES ALFA S.A.S (P900354856)...
+[2025-05-30 16:06:44] FAILED: Supplier TERMOEMPAQUES ALFA S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:44] Supplier: TERMOEMPAQUES ALFA S.A.S (P900354856) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:44] Processed 50 new suppliers so far...
+[2025-05-30 16:06:44] Fetching batch of suppliers (offset: 50, limit: 50)...
+[2025-05-30 16:06:44] Creating supplier 51: PLASTICOS MINIPET SAS (P900367317)...
+[2025-05-30 16:06:44] FAILED: Supplier PLASTICOS MINIPET SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:44] Supplier: PLASTICOS MINIPET SAS (P900367317) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:44] Creating supplier 52: EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S (P900406158)...
+[2025-05-30 16:06:45] FAILED: Supplier EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:45] Supplier: EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S (P900406158) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:45] Creating supplier 53: ALMACEN SOLOENVASES S.A.S. (P900411441)...
+[2025-05-30 16:06:45] FAILED: Supplier ALMACEN SOLOENVASES S.A.S. - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:45] Supplier: ALMACEN SOLOENVASES S.A.S. (P900411441) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:45] Creating supplier 54: TP COLOMBIA S.A.S (P900431011)...
+[2025-05-30 16:06:46] FAILED: Supplier TP COLOMBIA S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:46] Supplier: TP COLOMBIA S.A.S (P900431011) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:46] Creating supplier 55: TERMOPAK SAS (P900460838)...
+[2025-05-30 16:06:46] SUCCESS: Supplier TERMOPAK SAS created successfully.
+[2025-05-30 16:06:46] Supplier: TERMOPAK SAS (P900460838) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":276,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900460838\",\"Nombre\":\"TERMOPAK SAS\",\"Contacto\":\"\",\"Telefono\":\"3611217\",\"Email\":\"termopk.sas@gmail.com\",\"Fax\":\"3128050901\",\"Direccion\":\"CR 58 9 07\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:06:46] Creating supplier 56: FLEXO IMPRESOS S.A.S (P900528680)...
+[2025-05-30 16:06:47] FAILED: Supplier FLEXO IMPRESOS S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:47] Supplier: FLEXO IMPRESOS S.A.S (P900528680) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:47] Creating supplier 57: INDUSTRIAS PLASTICAS BUENOS AIRE SAS (P900534424)...
+[2025-05-30 16:06:47] FAILED: Supplier INDUSTRIAS PLASTICAS BUENOS AIRE SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:47] Supplier: INDUSTRIAS PLASTICAS BUENOS AIRE SAS (P900534424) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:47] Creating supplier 58: ANTIOQUEÑA DE QUIMICOS S.A.S (P900551404)...
+[2025-05-30 16:06:48] FAILED: Supplier ANTIOQUEÑA DE QUIMICOS S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:48] Supplier: ANTIOQUEÑA DE QUIMICOS S.A.S (P900551404) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:48] Creating supplier 59: ENTACOL S.A.S (P900591818)...
+[2025-05-30 16:06:48] FAILED: Supplier ENTACOL S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:48] Supplier: ENTACOL S.A.S (P900591818) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:48] Creating supplier 60: SUMINPET SAS (P900607346)...
+[2025-05-30 16:06:48] FAILED: Supplier SUMINPET SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:48] Supplier: SUMINPET SAS (P900607346) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:48] Creating supplier 61: SUMINISTROS Y SOLUCIONES LOGISTICAS S.A.S (P900660194)...
+[2025-05-30 16:06:49] SUCCESS: Supplier SUMINISTROS Y SOLUCIONES LOGISTICAS S.A.S created successfully.
+[2025-05-30 16:06:49] Supplier: SUMINISTROS Y SOLUCIONES LOGISTICAS S.A.S (P900660194) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":277,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900660194\",\"Nombre\":\"SUMINISTROS Y SOLUCIONES LOGISTICAS S.A.S\",\"Contacto\":\"ANDREA TAMAYO\",\"Telefono\":\"3174026646\",\"Email\":\"suministrosysolucioneslog@gmail.com\",\"Fax\":\"\",\"Direccion\":\"CR 32 48 55 IN 301\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:06:49] Creating supplier 62: KOLOR GRAPHIC SAS (P900664534)...
+[2025-05-30 16:06:49] FAILED: Supplier KOLOR GRAPHIC SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:49] Supplier: KOLOR GRAPHIC SAS (P900664534) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:49] Creating supplier 63: HANDLER (P900677390)...
+[2025-05-30 16:06:50] FAILED: Supplier HANDLER - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:50] Supplier: HANDLER (P900677390) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:50] Creating supplier 64: CALEGO S.A.S (P900738342)...
+[2025-05-30 16:06:50] FAILED: Supplier CALEGO S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:50] Supplier: CALEGO S.A.S (P900738342) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:50] Creating supplier 65: SENSORIA FRAGANCIAS SAS (P900808490)...
+[2025-05-30 16:06:51] FAILED: Supplier SENSORIA FRAGANCIAS SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:51] Supplier: SENSORIA FRAGANCIAS SAS (P900808490) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:51] Creating supplier 66: CARTAN SAS (P900902590)...
+[2025-05-30 16:06:51] FAILED: Supplier CARTAN SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:51] Supplier: CARTAN SAS (P900902590) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:51] Creating supplier 67: LAMINATE PACKAGING COLOMBIA SAS (P900926488)...
+[2025-05-30 16:06:51] FAILED: Supplier LAMINATE PACKAGING COLOMBIA SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:51] Supplier: LAMINATE PACKAGING COLOMBIA SAS (P900926488) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:51] Creating supplier 68: BONDENT S.A.S (P900956591)...
+[2025-05-30 16:06:52] FAILED: Supplier BONDENT S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:52] Supplier: BONDENT S.A.S (P900956591) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:52] Creating supplier 69: POLYPRINT SAS (P901005878)...
+[2025-05-30 16:06:52] FAILED: Supplier POLYPRINT SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:52] Supplier: POLYPRINT SAS (P901005878) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:52] Creating supplier 70: RESVELTEX SAS (P901062045)...
+[2025-05-30 16:06:53] FAILED: Supplier RESVELTEX SAS - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:53] Supplier: RESVELTEX SAS (P901062045) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:53] Creating supplier 71: SENSO PACK S.A.S (P901171864)...
+[2025-05-30 16:06:53] FAILED: Supplier SENSO PACK S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:53] Supplier: SENSO PACK S.A.S (P901171864) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:53] Creating supplier 72: CHEM FLUID S.A.S (P901192599)...
+[2025-05-30 16:06:54] FAILED: Supplier CHEM FLUID S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:54] Supplier: CHEM FLUID S.A.S (P901192599) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '1' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:54] Creating supplier 73: CINTAS SOLUPACK S.A.S (P901212096)...
+[2025-05-30 16:06:54] FAILED: Supplier CINTAS SOLUPACK S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:54] Supplier: CINTAS SOLUPACK S.A.S (P901212096) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:54] Creating supplier 74: SIGMAPLASTICOS MAYORISTA SAS (P901238020)...
+[2025-05-30 16:06:55] SUCCESS: Supplier SIGMAPLASTICOS MAYORISTA SAS created successfully.
+[2025-05-30 16:06:55] Supplier: SIGMAPLASTICOS MAYORISTA SAS (P901238020) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":278,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P901238020\",\"Nombre\":\"SIGMAPLASTICOS MAYORISTA SAS\",\"Contacto\":\"PAOLA\",\"Telefono\":\"2853060\",\"Email\":\"b19@sigmaplast.co.com\",\"Fax\":\"\",\"Direccion\":\"CR 85 48  01\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:06:55] Creating supplier 75: BOLTEN SPRAY S.A.S (P901327447)...
+[2025-05-30 16:06:55] FAILED: Supplier BOLTEN SPRAY S.A.S - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '4' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:55] Supplier: BOLTEN SPRAY S.A.S (P901327447) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '4' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '4' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:55] Creating supplier 76: ELVIS ALFREDO CELIS SUAREZ (P91428879)...
+[2025-05-30 16:06:56] FAILED: Supplier ELVIS ALFREDO CELIS SUAREZ - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+[2025-05-30 16:06:56] Supplier: ELVIS ALFREDO CELIS SUAREZ (P91428879) - FAILED - Error HTTP: 400 - Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontró en la tabla 'CIUDAD.Activo=1'
+Response data: {"StatusCode":400,"Message":"Bad Request - Error: Por lo menos una referencia no es valida, verifique los valores enviados: No se pudo asignar el valor para el campo: CodCiudad '2' no se encontr\u00f3 en la tabla 'CIUDAD.Activo=1'","Entity":null}
+----------------------------------------
+[2025-05-30 16:06:56] Process completed.
+[2025-05-30 16:09:26] Starting automatic supplier creation process (only processing new/missing suppliers)...
+[2025-05-30 16:09:26] Connecting to database...
+[2025-05-30 16:09:26] Database connection established.
+[2025-05-30 16:09:26] Found 76 total suppliers in the database.
+[2025-05-30 16:09:26] Found 5 already processed suppliers.
+[2025-05-30 16:09:26] Fetching batch of suppliers (offset: 0, limit: 50)...
+[2025-05-30 16:09:26] Creating supplier 1: PROHESA S.A (P800006286)...
+[2025-05-30 16:09:26] SUCCESS: Supplier PROHESA S.A created successfully.
+[2025-05-30 16:09:26] Supplier: PROHESA S.A (P800006286) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":279,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800006286\",\"Nombre\":\"PROHESA S.A\",\"Contacto\":\"ROBERT ZULETA\",\"Telefono\":\"3721112\",\"Email\":\"rzuleta@prohesa.com.co\",\"Fax\":\"\",\"Direccion\":\"CR 50 A 43 33\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:26] Creating supplier 2: ANFER SAS (P800015199)...
+[2025-05-30 16:09:27] SUCCESS: Supplier ANFER SAS created successfully.
+[2025-05-30 16:09:27] Supplier: ANFER SAS (P800015199) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":280,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800015199\",\"Nombre\":\"ANFER SAS\",\"Contacto\":\"DIEGO RAMIREZ\",\"Telefono\":\"3762373\",\"Email\":\"anferltdaexhibidores@gmail.com\",\"Fax\":\"3762373\",\"Direccion\":\"CR 45 A 66 A 196\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:27] Creating supplier 3: AROMAS Y SABORES TECNICOS DE COLOMBIA SA (P800040863)...
+[2025-05-30 16:09:27] SUCCESS: Supplier AROMAS Y SABORES TECNICOS DE COLOMBIA SA created successfully.
+[2025-05-30 16:09:27] Supplier: AROMAS Y SABORES TECNICOS DE COLOMBIA SA (P800040863) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":281,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800040863\",\"Nombre\":\"AROMAS Y SABORES TECNICOS DE COLOMBIA SA\",\"Contacto\":\"ANA ISABEL -BIBIANA-LAURA\",\"Telefono\":\"3328455\",\"Email\":\"comercial@astek.com.co\",\"Fax\":\"\",\"Direccion\":\"CR 48 B 99 SUR 59 BG 25\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:27] Creating supplier 4: GRAFICAS PAJON SAS (P800052705)...
+[2025-05-30 16:09:28] SUCCESS: Supplier GRAFICAS PAJON SAS created successfully.
+[2025-05-30 16:09:28] Supplier: GRAFICAS PAJON SAS (P800052705) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":282,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800052705\",\"Nombre\":\"GRAFICAS PAJON SAS\",\"Contacto\":\"\",\"Telefono\":\"2523297\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR  65 72 155\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:28] Creating supplier 5: ESENTTIA SA (P800059470)...
+[2025-05-30 16:09:28] SUCCESS: Supplier ESENTTIA SA created successfully.
+[2025-05-30 16:09:28] Supplier: ESENTTIA SA (P800059470) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":283,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800059470\",\"Nombre\":\"ESENTTIA SA\",\"Contacto\":\"JAIME VILLA - ANA PATRICIA BARRIOS\",\"Telefono\":\"031-5960211\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"ZONA INDUSTRIAL VIA MAMONAL KM 8\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:28] Creating supplier 6: TRANSPORTES R G SA (P800070196)...
+[2025-05-30 16:09:29] SUCCESS: Supplier TRANSPORTES R G SA created successfully.
+[2025-05-30 16:09:29] Supplier: TRANSPORTES R G SA (P800070196) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":284,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800070196\",\"Nombre\":\"TRANSPORTES R G SA\",\"Contacto\":\"TRANSPORTES R G SA\",\"Telefono\":\"4484645\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 42 54A 155 AUT SUR\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:29] Creating supplier 7: INDUSTRIAS CORY SAS (P800131750)...
+[2025-05-30 16:09:29] SUCCESS: Supplier INDUSTRIAS CORY SAS created successfully.
+[2025-05-30 16:09:29] Supplier: INDUSTRIAS CORY SAS (P800131750) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":285,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800131750\",\"Nombre\":\"INDUSTRIAS CORY SAS\",\"Contacto\":\"MARIANA ZAPATA\",\"Telefono\":\"3617670\",\"Email\":\"\",\"Fax\":\"3617670\",\"Direccion\":\"CL 10 SUR 50 F F 42\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:29] Creating supplier 8: QUIMICA INTERKROL LTDA (P800137224)...
+[2025-05-30 16:09:30] SUCCESS: Supplier QUIMICA INTERKROL LTDA created successfully.
+[2025-05-30 16:09:30] Supplier: QUIMICA INTERKROL LTDA (P800137224) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":286,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800137224\",\"Nombre\":\"QUIMICA INTERKROL LTDA\",\"Contacto\":\"SARA\",\"Telefono\":\"4201330\",\"Email\":\"ventassiete@interkrol.com\",\"Fax\":\"4201330\",\"Direccion\":\"CRA 64 5A 55\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:30] Creating supplier 9: PRESQUIM SAS (P800167047)...
+[2025-05-30 16:09:30] SUCCESS: Supplier PRESQUIM SAS created successfully.
+[2025-05-30 16:09:30] Supplier: PRESQUIM SAS (P800167047) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":287,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800167047\",\"Nombre\":\"PRESQUIM SAS\",\"Contacto\":\"CLAUDIA GUZMAN\",\"Telefono\":\"6113007\",\"Email\":\"ventas@presquim.com\",\"Fax\":\"\",\"Direccion\":\"CR 13 90 36 OF 702\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:30] Creating supplier 10: OPTIFORMAS S. A. S (P800201988)...
+[2025-05-30 16:09:31] SUCCESS: Supplier OPTIFORMAS S. A. S created successfully.
+[2025-05-30 16:09:31] Supplier: OPTIFORMAS S. A. S (P800201988) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":288,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800201988\",\"Nombre\":\"OPTIFORMAS S. A. S\",\"Contacto\":\"ALEJANDRA - LUIS MIGUEL\",\"Telefono\":\"\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 64 35 35\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:31] Creating supplier 11: TRANSBORDER SAS (P800241469)...
+[2025-05-30 16:09:31] SUCCESS: Supplier TRANSBORDER SAS created successfully.
+[2025-05-30 16:09:31] Supplier: TRANSBORDER SAS (P800241469) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":289,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800241469\",\"Nombre\":\"TRANSBORDER SAS\",\"Contacto\":\"TRANSBORDER SAS\",\"Telefono\":\"3128329\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CL 11 43 B 50 OF 506\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:31] Creating supplier 12: BOLTEN LIMITADA (P800247875)...
+[2025-05-30 16:09:32] SUCCESS: Supplier BOLTEN LIMITADA created successfully.
+[2025-05-30 16:09:32] Supplier: BOLTEN LIMITADA (P800247875) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":290,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800247875\",\"Nombre\":\"BOLTEN LIMITADA\",\"Contacto\":\"ANDRES VELEZ\",\"Telefono\":\"4111234\",\"Email\":\"avelez@bolten.com.co\",\"Fax\":\"3542715\",\"Direccion\":\"VIA JUAN MINA KM CINCO MARGEN DERECHO\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:32] Creating supplier 13: PRODUCTOS ESPECIALES SAS (P800256159)...
+[2025-05-30 16:09:32] SUCCESS: Supplier PRODUCTOS ESPECIALES SAS created successfully.
+[2025-05-30 16:09:32] Supplier: PRODUCTOS ESPECIALES SAS (P800256159) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":291,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P800256159\",\"Nombre\":\"PRODUCTOS ESPECIALES SAS\",\"Contacto\":\"CAMILO LAINEZ\",\"Telefono\":\"4444711\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CL 85 A 48 51\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:32] Creating supplier 14: IMPRESOS EL DIA SAS (P811003895)...
+[2025-05-30 16:09:33] SUCCESS: Supplier IMPRESOS EL DIA SAS created successfully.
+[2025-05-30 16:09:33] Supplier: IMPRESOS EL DIA SAS (P811003895) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":292,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811003895\",\"Nombre\":\"IMPRESOS EL DIA SAS\",\"Contacto\":\"CLAUDIA VASQUEZ\",\"Telefono\":\"3813435\",\"Email\":\"contabilidad@impresoseldia.com.co\",\"Fax\":\"\",\"Direccion\":\"CR 46 35 87\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:33] Creating supplier 15: COLOMBIANA DE SABORES S.A.S. (P811003961)...
+[2025-05-30 16:09:33] SUCCESS: Supplier COLOMBIANA DE SABORES S.A.S. created successfully.
+[2025-05-30 16:09:33] Supplier: COLOMBIANA DE SABORES S.A.S. (P811003961) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":293,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811003961\",\"Nombre\":\"COLOMBIANA DE SABORES S.A.S.\",\"Contacto\":\"HAROL\",\"Telefono\":\"3731287 EXT 113\",\"Email\":\"ventasindustrial@colombianadesabores.com\",\"Fax\":\"3731287 EXT 113\",\"Direccion\":\"CR 45 A 67 B 113\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:33] Creating supplier 16: LITOGRAFIA BERNA SA (P811006043)...
+[2025-05-30 16:09:34] SUCCESS: Supplier LITOGRAFIA BERNA SA created successfully.
+[2025-05-30 16:09:34] Supplier: LITOGRAFIA BERNA SA (P811006043) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":294,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811006043\",\"Nombre\":\"LITOGRAFIA BERNA SA\",\"Contacto\":\"YUDIS OCHOA\",\"Telefono\":\"3113595606\",\"Email\":\"\",\"Fax\":\"3113595606\",\"Direccion\":\"CR 50 G G 12 SUR 141\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:34] Creating supplier 17: PERYSA S.A.S (P811007506)...
+[2025-05-30 16:09:34] SUCCESS: Supplier PERYSA S.A.S created successfully.
+[2025-05-30 16:09:34] Supplier: PERYSA S.A.S (P811007506) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":295,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811007506\",\"Nombre\":\"PERYSA S.A.S\",\"Contacto\":\"KARINA CARDENAS\",\"Telefono\":\"1\",\"Email\":\"comercial@perysa.com\",\"Fax\":\"\",\"Direccion\":\"CARRERA 48 48 SUR 75 BODEGA 103 CENTRO MULTIBLE LA\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:34] Creating supplier 18: ARCOLOR S.A.S (P811010410)...
+[2025-05-30 16:09:35] SUCCESS: Supplier ARCOLOR S.A.S created successfully.
+[2025-05-30 16:09:35] Supplier: ARCOLOR S.A.S (P811010410) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":296,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811010410\",\"Nombre\":\"ARCOLOR S.A.S\",\"Contacto\":\"NATALY AGUIRRE\",\"Telefono\":\"3721112\",\"Email\":\"arcolor@telecom.com.co\",\"Fax\":\"\",\"Direccion\":\"CL 32 41 175\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:35] Creating supplier 19: ISOPLAST S.AS. (P811013524)...
+[2025-05-30 16:09:35] SUCCESS: Supplier ISOPLAST S.AS. created successfully.
+[2025-05-30 16:09:35] Supplier: ISOPLAST S.AS. (P811013524) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":297,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811013524\",\"Nombre\":\"ISOPLAST S.AS.\",\"Contacto\":\"MARIANA\",\"Telefono\":\"3622425\",\"Email\":\"ventas@isoplast.com.co\",\"Fax\":\"\",\"Direccion\":\"CE 52 CL 7 SUR 85 IN 1\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:35] Creating supplier 20: LINEA ADHESIVA SAS BIC (P811013715)...
+[2025-05-30 16:09:36] SUCCESS: Supplier LINEA ADHESIVA SAS BIC created successfully.
+[2025-05-30 16:09:36] Supplier: LINEA ADHESIVA SAS BIC (P811013715) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":298,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811013715\",\"Nombre\":\"LINEA ADHESIVA SAS BIC\",\"Contacto\":\"ALEXANDRA HERNANDEZ\",\"Telefono\":\"3137334300\",\"Email\":\"alexandra.hernandez@lineaadhesiva.com\",\"Fax\":\"3137334300\",\"Direccion\":\"CR 47D 79 SUR 34\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:36] Creating supplier 21: SOLUCIONES PLASTICAS S.A (P811023645)...
+[2025-05-30 16:09:36] SUCCESS: Supplier SOLUCIONES PLASTICAS S.A created successfully.
+[2025-05-30 16:09:36] Supplier: SOLUCIONES PLASTICAS S.A (P811023645) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":299,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811023645\",\"Nombre\":\"SOLUCIONES PLASTICAS S.A\",\"Contacto\":\"KAREN HERRERA MORENO\",\"Telefono\":\"2773121 EXT102-103\",\"Email\":\"auxcomercial@soluplast.com.co\",\"Fax\":\"\",\"Direccion\":\"CR 45 A 72 72\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:36] Creating supplier 22: ENTERPACK LTDA. (P811024463)...
+[2025-05-30 16:09:37] SUCCESS: Supplier ENTERPACK LTDA. created successfully.
+[2025-05-30 16:09:37] Supplier: ENTERPACK LTDA. (P811024463) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":300,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811024463\",\"Nombre\":\"ENTERPACK LTDA.\",\"Contacto\":\"ENTERPACK LTDA.\",\"Telefono\":\"2880620\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 43 A 57 SUR 41\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:37] Creating supplier 23: BELL CHEM INTERNACIONAL SAS (P811027326)...
+[2025-05-30 16:09:37] SUCCESS: Supplier BELL CHEM INTERNACIONAL SAS created successfully.
+[2025-05-30 16:09:37] Supplier: BELL CHEM INTERNACIONAL SAS (P811027326) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":301,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811027326\",\"Nombre\":\"BELL CHEM INTERNACIONAL SAS\",\"Contacto\":\"ANA MARIA BOHORQUEZ\",\"Telefono\":\"4031090  EXT 111\",\"Email\":\"comercial1@bellchem.co .com\",\"Fax\":\"2798541\",\"Direccion\":\"CR 50 79 SUR 101\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:37] Creating supplier 24: TROQUEL FORMAS E.U (P811031381)...
+[2025-05-30 16:09:38] SUCCESS: Supplier TROQUEL FORMAS E.U created successfully.
+[2025-05-30 16:09:38] Supplier: TROQUEL FORMAS E.U (P811031381) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":302,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811031381\",\"Nombre\":\"TROQUEL FORMAS E.U\",\"Contacto\":\"JUAN ESTEBAN RESTREPO\",\"Telefono\":\"3621262\",\"Email\":\"troquelformas@une.net.co\",\"Fax\":\"\",\"Direccion\":\"CR 50 85 139\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:38] Creating supplier 25: COLOR LIQUIDO IMPRESION DIGITAL S.A.S (P811036638)...
+[2025-05-30 16:09:39] SUCCESS: Supplier COLOR LIQUIDO IMPRESION DIGITAL S.A.S created successfully.
+[2025-05-30 16:09:39] Supplier: COLOR LIQUIDO IMPRESION DIGITAL S.A.S (P811036638) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":303,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811036638\",\"Nombre\":\"COLOR LIQUIDO IMPRESION DIGITAL S.A.S\",\"Contacto\":\"\",\"Telefono\":\"4444742\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 45 7 106\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:39] Creating supplier 26: GRANPAPEL SAS (P811044289)...
+[2025-05-30 16:09:39] SUCCESS: Supplier GRANPAPEL SAS created successfully.
+[2025-05-30 16:09:39] Supplier: GRANPAPEL SAS (P811044289) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":304,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P811044289\",\"Nombre\":\"GRANPAPEL SAS\",\"Contacto\":\"\",\"Telefono\":\"2354433\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CL 21 65 47\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:39] Creating supplier 27: ROCSA COLOMBIA S.A (P830027231)...
+[2025-05-30 16:09:40] SUCCESS: Supplier ROCSA COLOMBIA S.A created successfully.
+[2025-05-30 16:09:40] Supplier: ROCSA COLOMBIA S.A (P830027231) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":305,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P830027231\",\"Nombre\":\"ROCSA COLOMBIA S.A\",\"Contacto\":\"ESTEBAN PINILLA\",\"Telefono\":\"3105575988\",\"Email\":\"jimena.manrique@rocsa.com\",\"Fax\":\"\",\"Direccion\":\"AUT BOGOTA MEDELLIN 1 BG 7\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:40] Creating supplier 28: SPARCOL CHEMICALS (P830070505)...
+[2025-05-30 16:09:40] SUCCESS: Supplier SPARCOL CHEMICALS created successfully.
+[2025-05-30 16:09:40] Supplier: SPARCOL CHEMICALS (P830070505) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":306,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P830070505\",\"Nombre\":\"SPARCOL CHEMICALS\",\"Contacto\":\"SUSANA RAMON -ANGELA ACOSTA\",\"Telefono\":\"6045800 EXT 212\",\"Email\":\"servicioalcliente@sparcol.com\",\"Fax\":\"\",\"Direccion\":\"CALLE 27 \u00b741-140 INT 105 ITAGUI\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:40] Creating supplier 29: TYCO SERVICES SA (P830075976)...
+[2025-05-30 16:09:41] SUCCESS: Supplier TYCO SERVICES SA created successfully.
+[2025-05-30 16:09:41] Supplier: TYCO SERVICES SA (P830075976) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":307,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P830075976\",\"Nombre\":\"TYCO SERVICES SA\",\"Contacto\":\"ASTRID GALINDO\",\"Telefono\":\"(1) 6553600\",\"Email\":\"asgalindo@tycoint.com\",\"Fax\":\"\",\"Direccion\":\"DG 92 17 A 42 OF 201\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:41] Creating supplier 30: CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (P830079716)...
+[2025-05-30 16:09:41] SUCCESS: Supplier CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS created successfully.
+[2025-05-30 16:09:41] Supplier: CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (P830079716) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":308,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P830079716\",\"Nombre\":\"CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS\",\"Contacto\":\"CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS\",\"Telefono\":\"4441494\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 52 14 30\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:41] Creating supplier 31: MERQUIMIA COLOMBIA SA (P830116746)...
+[2025-05-30 16:09:42] SUCCESS: Supplier MERQUIMIA COLOMBIA SA created successfully.
+[2025-05-30 16:09:42] Supplier: MERQUIMIA COLOMBIA SA (P830116746) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":309,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P830116746\",\"Nombre\":\"MERQUIMIA COLOMBIA SA\",\"Contacto\":\"LINA\",\"Telefono\":\"3772231\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"KM TRES PUNTO CINCO AUT MEDELLIN COSTADO SUR COTA\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:42] Creating supplier 32: INKJETCOL CIA LTDA (P830513254)...
+[2025-05-30 16:09:42] SUCCESS: Supplier INKJETCOL CIA LTDA created successfully.
+[2025-05-30 16:09:42] Supplier: INKJETCOL CIA LTDA (P830513254) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":310,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P830513254\",\"Nombre\":\"INKJETCOL CIA LTDA\",\"Contacto\":\"\",\"Telefono\":\"3136294401\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CL 42 SUR 51 A35\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:42] Creating supplier 33: AJOVER DARNEL  SAS (P860013771)...
+[2025-05-30 16:09:42] SUCCESS: Supplier AJOVER DARNEL  SAS created successfully.
+[2025-05-30 16:09:42] Supplier: AJOVER DARNEL  SAS (P860013771) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":311,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P860013771\",\"Nombre\":\"AJOVER DARNEL  SAS\",\"Contacto\":\"BEATRIZ BOTERO\",\"Telefono\":\"(4) 2887192\",\"Email\":\"cgallo@ajover.com\",\"Fax\":\"5949999\",\"Direccion\":\"CL 65 B 91 82\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:42] Creating supplier 34: DHL EXPRESS COLOMBIA LTDA (P860502609)...
+[2025-05-30 16:09:43] SUCCESS: Supplier DHL EXPRESS COLOMBIA LTDA created successfully.
+[2025-05-30 16:09:43] Supplier: DHL EXPRESS COLOMBIA LTDA (P860502609) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":312,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P860502609\",\"Nombre\":\"DHL EXPRESS COLOMBIA LTDA\",\"Contacto\":\"DHL EXPRESS COLOMBIA LTDA\",\"Telefono\":\"7477777\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 85D 46A 38\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:43] Creating supplier 35: AGENCIA DE ADUANAS CEVA LOGISTICS SAS (P860506204)...
+[2025-05-30 16:09:43] SUCCESS: Supplier AGENCIA DE ADUANAS CEVA LOGISTICS SAS created successfully.
+[2025-05-30 16:09:43] Supplier: AGENCIA DE ADUANAS CEVA LOGISTICS SAS (P860506204) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":313,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P860506204\",\"Nombre\":\"AGENCIA DE ADUANAS CEVA LOGISTICS SAS\",\"Contacto\":\"CEVA AGENCIA DE ADUANAS CEVA LOGISTICS SAS\",\"Telefono\":\"4441494\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 52 14 30\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:43] Skipping already processed supplier: CONQUIMICA S.A.S (P890919549)
+[2025-05-30 16:09:43] Creating supplier 36: RAVENNA INDUSTRIAL LTDA (P890920037)...
+[2025-05-30 16:09:44] SUCCESS: Supplier RAVENNA INDUSTRIAL LTDA created successfully.
+[2025-05-30 16:09:44] Supplier: RAVENNA INDUSTRIAL LTDA (P890920037) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":314,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P890920037\",\"Nombre\":\"RAVENNA INDUSTRIAL LTDA\",\"Contacto\":\"\",\"Telefono\":\"\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"TV 78 65 64\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:44] Creating supplier 37: ALICO S.A (P890928257)...
+[2025-05-30 16:09:44] SUCCESS: Supplier ALICO S.A created successfully.
+[2025-05-30 16:09:44] Supplier: ALICO S.A (P890928257) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":315,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P890928257\",\"Nombre\":\"ALICO S.A\",\"Contacto\":\"CLAUDIA MARCELA VASQUEZ\",\"Telefono\":\"3154621608\",\"Email\":\"\",\"Fax\":\"2854413\",\"Direccion\":\"CL 10 SUR 50 F F 63\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:44] Creating supplier 38: QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S (P890929647)...
+[2025-05-30 16:09:45] SUCCESS: Supplier QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S created successfully.
+[2025-05-30 16:09:45] Supplier: QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S (P890929647) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":316,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P890929647\",\"Nombre\":\"QUIMICOS Y PLASTICOS INDUSTRIALES S.A.S\",\"Contacto\":\"DORA JURADO\",\"Telefono\":\"0\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CL 6 50 169\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:45] Creating supplier 39: L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS (P890935947)...
+[2025-05-30 16:09:45] SUCCESS: Supplier L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS created successfully.
+[2025-05-30 16:09:45] Supplier: L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS (P890935947) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":317,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P890935947\",\"Nombre\":\"L Y F LTDA IMPORTADORA DE PRODUCTOS QUIMICOS\",\"Contacto\":\"CLAUDIA YANETH RUIZ GIRALDO\",\"Telefono\":\"2130202 EXT 106\",\"Email\":\"ventas-lyf@une.net.co\",\"Fax\":\"2130202 EXT 106\",\"Direccion\":\"CARRERA 48 48 SUR 75 BODEGA 103 CENTRO MULTIBLE LA\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:45] Skipping already processed supplier: PAPELCARD S.A.S. (P890940567)
+[2025-05-30 16:09:45] Creating supplier 40: PLASTICOS F.R LTDA (P900008166)...
+[2025-05-30 16:09:46] SUCCESS: Supplier PLASTICOS F.R LTDA created successfully.
+[2025-05-30 16:09:46] Supplier: PLASTICOS F.R LTDA (P900008166) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":318,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900008166\",\"Nombre\":\"PLASTICOS F.R LTDA\",\"Contacto\":\"FABIO\",\"Telefono\":\"\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 43 A 61 SUR 162 BG 233\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:46] Creating supplier 41: TRAMAS LITOGRAFIA LIMITADA (P900036588)...
+[2025-05-30 16:09:46] SUCCESS: Supplier TRAMAS LITOGRAFIA LIMITADA created successfully.
+[2025-05-30 16:09:46] Supplier: TRAMAS LITOGRAFIA LIMITADA (P900036588) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":319,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900036588\",\"Nombre\":\"TRAMAS LITOGRAFIA LIMITADA\",\"Contacto\":\"DARIO URREGO\",\"Telefono\":\"3161900\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 54 CL 29 C 30\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:46] Creating supplier 42: DIEMPAQUES (P900048343)...
+[2025-05-30 16:09:47] SUCCESS: Supplier DIEMPAQUES created successfully.
+[2025-05-30 16:09:47] Supplier: DIEMPAQUES (P900048343) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":320,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900048343\",\"Nombre\":\"DIEMPAQUES\",\"Contacto\":\"ANA VICTORIA RIVERA\",\"Telefono\":\"1)4140410\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 59 14 79\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:47] Creating supplier 43: QUIMIFAST Y CIA S.A.S. (P900053485)...
+[2025-05-30 16:09:47] SUCCESS: Supplier QUIMIFAST Y CIA S.A.S. created successfully.
+[2025-05-30 16:09:47] Supplier: QUIMIFAST Y CIA S.A.S. (P900053485) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":321,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900053485\",\"Nombre\":\"QUIMIFAST Y CIA S.A.S.\",\"Contacto\":\"LUISA RUIZ\",\"Telefono\":\"4484260\",\"Email\":\"ventasquimifast@gmail.com\",\"Fax\":\"\",\"Direccion\":\"CR 50 91 SUR 411 BG 02\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:47] Creating supplier 44: A.F.R. S.A.S (P900105338)...
+[2025-05-30 16:09:48] SUCCESS: Supplier A.F.R. S.A.S created successfully.
+[2025-05-30 16:09:48] Supplier: A.F.R. S.A.S (P900105338) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":322,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900105338\",\"Nombre\":\"A.F.R. S.A.S\",\"Contacto\":\"RUTH GOMEZ - FELIPE\",\"Telefono\":\"3320210\",\"Email\":\"productosdentalesafr@yahoo.com\",\"Fax\":\"3320210\",\"Direccion\":\"CL 39 B SUR 34 A 20\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:48] Creating supplier 45: CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA (P900137681)...
+[2025-05-30 16:09:48] SUCCESS: Supplier CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA created successfully.
+[2025-05-30 16:09:48] Supplier: CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA (P900137681) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":323,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900137681\",\"Nombre\":\"CRODA COLOMBIA SUCURSAL DE CRODA DEL BRASIL LTDA\",\"Contacto\":\"\",\"Telefono\":\"3214230\",\"Email\":\"Camila.Luna@croda.com\",\"Fax\":\"\",\"Direccion\":\"CL 90 19 41 OF 601\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:48] Creating supplier 46: INDUSTRIAS PLASTICAS MOSER (P900138784)...
+[2025-05-30 16:09:49] SUCCESS: Supplier INDUSTRIAS PLASTICAS MOSER created successfully.
+[2025-05-30 16:09:49] Supplier: INDUSTRIAS PLASTICAS MOSER (P900138784) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":324,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900138784\",\"Nombre\":\"INDUSTRIAS PLASTICAS MOSER\",\"Contacto\":\"SERGIO DAVILA\",\"Telefono\":\"2856500 EXT107\",\"Email\":\"acomercial@industriasmoser.com.co\",\"Fax\":\"2856500 EXT107\",\"Direccion\":\"CL 10B SUR  51 155\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:49] Creating supplier 47: PARATUAGRO S.A.S (P900347290)...
+[2025-05-30 16:09:49] SUCCESS: Supplier PARATUAGRO S.A.S created successfully.
+[2025-05-30 16:09:49] Supplier: PARATUAGRO S.A.S (P900347290) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":325,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900347290\",\"Nombre\":\"PARATUAGRO S.A.S\",\"Contacto\":\"ALEJANDRO BERNAL\",\"Telefono\":\"6042794461\",\"Email\":\"PARATUAGRO@GMAIL.COM\",\"Fax\":\"\",\"Direccion\":\"CR 55 A 79 C SUR 05\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:49] Creating supplier 48: TERMOEMPAQUES ALFA S.A.S (P900354856)...
+[2025-05-30 16:09:50] SUCCESS: Supplier TERMOEMPAQUES ALFA S.A.S created successfully.
+[2025-05-30 16:09:50] Supplier: TERMOEMPAQUES ALFA S.A.S (P900354856) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":326,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900354856\",\"Nombre\":\"TERMOEMPAQUES ALFA S.A.S\",\"Contacto\":\"TERMOEMPAQUES ALFA S.A.S\",\"Telefono\":\"3727372\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CL 63 45 24\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:50] Processed 48 new suppliers so far...
+[2025-05-30 16:09:50] Fetching batch of suppliers (offset: 50, limit: 50)...
+[2025-05-30 16:09:50] Creating supplier 49: PLASTICOS MINIPET SAS (P900367317)...
+[2025-05-30 16:09:50] SUCCESS: Supplier PLASTICOS MINIPET SAS created successfully.
+[2025-05-30 16:09:50] Supplier: PLASTICOS MINIPET SAS (P900367317) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":327,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900367317\",\"Nombre\":\"PLASTICOS MINIPET SAS\",\"Contacto\":\"LILY GUTIERREZ SOTO\",\"Telefono\":\"4485047\",\"Email\":\"comercial@plasticosminipet.com\",\"Fax\":\"\",\"Direccion\":\"AUT NORTE UNIDAD DE BODEGAS SAN FRANCISCO DE ASIS BG 31\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:50] Creating supplier 50: EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S (P900406158)...
+[2025-05-30 16:09:51] SUCCESS: Supplier EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S created successfully.
+[2025-05-30 16:09:51] Supplier: EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S (P900406158) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":328,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900406158\",\"Nombre\":\"EMPAQUES INDUSTRIALES DE COLOMBIA S.A.S\",\"Contacto\":\"ALVARO SOLIS- JOHANA PELAEZ\",\"Telefono\":\"3175732758\",\"Email\":\"johana.pelaez @empicolsa.com\",\"Fax\":\"3175732758\",\"Direccion\":\"CL 22 D 120 18 BRR HB FONTIBON\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:51] Creating supplier 51: ALMACEN SOLOENVASES S.A.S. (P900411441)...
+[2025-05-30 16:09:51] SUCCESS: Supplier ALMACEN SOLOENVASES S.A.S. created successfully.
+[2025-05-30 16:09:51] Supplier: ALMACEN SOLOENVASES S.A.S. (P900411441) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":329,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900411441\",\"Nombre\":\"ALMACEN SOLOENVASES S.A.S.\",\"Contacto\":\"\",\"Telefono\":\"2313115\",\"Email\":\"\",\"Fax\":\"2313115\",\"Direccion\":\"CLL 54 56A 31\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:51] Creating supplier 52: TP COLOMBIA S.A.S (P900431011)...
+[2025-05-30 16:09:52] SUCCESS: Supplier TP COLOMBIA S.A.S created successfully.
+[2025-05-30 16:09:52] Supplier: TP COLOMBIA S.A.S (P900431011) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":330,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900431011\",\"Nombre\":\"TP COLOMBIA S.A.S\",\"Contacto\":\"DAVID PALACIO\",\"Telefono\":\"3002113487\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"KM 25 PAR INDUSTRIAL DEL NORTE\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:52] Skipping already processed supplier: TERMOPAK SAS (P900460838)
+[2025-05-30 16:09:52] Creating supplier 53: FLEXO IMPRESOS S.A.S (P900528680)...
+[2025-05-30 16:09:52] SUCCESS: Supplier FLEXO IMPRESOS S.A.S created successfully.
+[2025-05-30 16:09:52] Supplier: FLEXO IMPRESOS S.A.S (P900528680) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":331,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900528680\",\"Nombre\":\"FLEXO IMPRESOS S.A.S\",\"Contacto\":\"JUAN DIEGO GONZALEZ\",\"Telefono\":\"4449661\",\"Email\":\"juan.gonzalez@flexoimpresos.com\",\"Fax\":\"\",\"Direccion\":\"CL 28 A 65 A 9\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:52] Creating supplier 54: INDUSTRIAS PLASTICAS BUENOS AIRE SAS (P900534424)...
+[2025-05-30 16:09:53] SUCCESS: Supplier INDUSTRIAS PLASTICAS BUENOS AIRE SAS created successfully.
+[2025-05-30 16:09:53] Supplier: INDUSTRIAS PLASTICAS BUENOS AIRE SAS (P900534424) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":332,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900534424\",\"Nombre\":\"INDUSTRIAS PLASTICAS BUENOS AIRE SAS\",\"Contacto\":\"AURELIO ROSADO\",\"Telefono\":\"4145176\",\"Email\":\"comercial.ipba@gmail.com\",\"Fax\":\"\",\"Direccion\":\"CL 120 70 81\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:53] Creating supplier 55: ANTIOQUEÑA DE QUIMICOS S.A.S (P900551404)...
+[2025-05-30 16:09:53] SUCCESS: Supplier ANTIOQUEÑA DE QUIMICOS S.A.S created successfully.
+[2025-05-30 16:09:53] Supplier: ANTIOQUEÑA DE QUIMICOS S.A.S (P900551404) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":333,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900551404\",\"Nombre\":\"ANTIOQUE\u00d1A DE QUIMICOS S.A.S\",\"Contacto\":\"ANTIOQUENA DE QUIMICOS S.A.S\",\"Telefono\":\"4480133\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 56B 49 83\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:53] Creating supplier 56: ENTACOL S.A.S (P900591818)...
+[2025-05-30 16:09:54] SUCCESS: Supplier ENTACOL S.A.S created successfully.
+[2025-05-30 16:09:54] Supplier: ENTACOL S.A.S (P900591818) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":334,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900591818\",\"Nombre\":\"ENTACOL S.A.S\",\"Contacto\":\"CARLOS EUSSE\",\"Telefono\":\"\",\"Email\":\"entacol@gmail.com\",\"Fax\":\"\",\"Direccion\":\"CR 68 A CIR 3 86 IN 301\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:54] Creating supplier 57: SUMINPET SAS (P900607346)...
+[2025-05-30 16:09:54] SUCCESS: Supplier SUMINPET SAS created successfully.
+[2025-05-30 16:09:54] Supplier: SUMINPET SAS (P900607346) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":335,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900607346\",\"Nombre\":\"SUMINPET SAS\",\"Contacto\":\"DAVID PALACIO\",\"Telefono\":\"4546231\",\"Email\":\"comercial@tpcolombia.co\",\"Fax\":\"\",\"Direccion\":\"AUT NORTE KM 25 BG 131 PQ INDUSTRIAL DEL NORTE ENT GIRARDOTA\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:54] Skipping already processed supplier: SUMINISTROS Y SOLUCIONES LOGISTICAS S.A.S (P900660194)
+[2025-05-30 16:09:54] Creating supplier 58: KOLOR GRAPHIC SAS (P900664534)...
+[2025-05-30 16:09:55] SUCCESS: Supplier KOLOR GRAPHIC SAS created successfully.
+[2025-05-30 16:09:55] Supplier: KOLOR GRAPHIC SAS (P900664534) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":336,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900664534\",\"Nombre\":\"KOLOR GRAPHIC SAS\",\"Contacto\":\"NATALY\",\"Telefono\":\"3815919\",\"Email\":\"kolorgraphic@hotmail.com\",\"Fax\":\"3815919\",\"Direccion\":\"CR 51 41 144\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:55] Creating supplier 59: HANDLER (P900677390)...
+[2025-05-30 16:09:55] SUCCESS: Supplier HANDLER created successfully.
+[2025-05-30 16:09:55] Supplier: HANDLER (P900677390) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":337,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900677390\",\"Nombre\":\"HANDLER\",\"Contacto\":\"LUZ ELENA TOBOS\",\"Telefono\":\"3003850368\",\"Email\":\"ltobos@handlercolombia.com\",\"Fax\":\"\",\"Direccion\":\"CRA 97 24C 23\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:55] Creating supplier 60: CALEGO S.A.S (P900738342)...
+[2025-05-30 16:09:56] SUCCESS: Supplier CALEGO S.A.S created successfully.
+[2025-05-30 16:09:56] Supplier: CALEGO S.A.S (P900738342) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":338,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900738342\",\"Nombre\":\"CALEGO S.A.S\",\"Contacto\":\"JUAN MANUEL CALVETE\",\"Telefono\":\"3527925\",\"Email\":\"gerencia@calego.com.co\",\"Fax\":\"\",\"Direccion\":\"CL 84 SUR 37 10 IN 108\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:56] Creating supplier 61: SENSORIA FRAGANCIAS SAS (P900808490)...
+[2025-05-30 16:09:56] SUCCESS: Supplier SENSORIA FRAGANCIAS SAS created successfully.
+[2025-05-30 16:09:56] Supplier: SENSORIA FRAGANCIAS SAS (P900808490) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":339,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900808490\",\"Nombre\":\"SENSORIA FRAGANCIAS SAS\",\"Contacto\":\"DAVID\",\"Telefono\":\"\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"CR 42 27 13\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:56] Creating supplier 62: CARTAN SAS (P900902590)...
+[2025-05-30 16:09:57] SUCCESS: Supplier CARTAN SAS created successfully.
+[2025-05-30 16:09:57] Supplier: CARTAN SAS (P900902590) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":340,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900902590\",\"Nombre\":\"CARTAN SAS\",\"Contacto\":\"HECTOR C.\",\"Telefono\":\"3116301958\",\"Email\":\"cartansas@gmail.com\",\"Fax\":\"\",\"Direccion\":\"CR 48 65 SUR 142\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:57] Creating supplier 63: LAMINATE PACKAGING COLOMBIA SAS (P900926488)...
+[2025-05-30 16:09:57] SUCCESS: Supplier LAMINATE PACKAGING COLOMBIA SAS created successfully.
+[2025-05-30 16:09:57] Supplier: LAMINATE PACKAGING COLOMBIA SAS (P900926488) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":341,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900926488\",\"Nombre\":\"LAMINATE PACKAGING COLOMBIA SAS\",\"Contacto\":\"MARIA VICTORIA\",\"Telefono\":\"8295299\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"VIA CALI SANTANDER KM 24 PAR ZF INDUSTRIAL PARQUE SUR\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:57] Creating supplier 64: BONDENT S.A.S (P900956591)...
+[2025-05-30 16:09:58] SUCCESS: Supplier BONDENT S.A.S created successfully.
+[2025-05-30 16:09:58] Supplier: BONDENT S.A.S (P900956591) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":342,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P900956591\",\"Nombre\":\"BONDENT S.A.S\",\"Contacto\":\"BONDENT SAS\",\"Telefono\":\"3221272\",\"Email\":\"gerencia@bondent.com.co\",\"Fax\":\"\",\"Direccion\":\"CL 39 SUR 44 23\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:58] Creating supplier 65: POLYPRINT SAS (P901005878)...
+[2025-05-30 16:09:58] SUCCESS: Supplier POLYPRINT SAS created successfully.
+[2025-05-30 16:09:58] Supplier: POLYPRINT SAS (P901005878) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":343,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P901005878\",\"Nombre\":\"POLYPRINT SAS\",\"Contacto\":\"LINA\",\"Telefono\":\"3619430\",\"Email\":\"gerencia.medellin@polyprint-america.com\",\"Fax\":\"\",\"Direccion\":\"CL 1C 66 53\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:58] Creating supplier 66: RESVELTEX SAS (P901062045)...
+[2025-05-30 16:09:59] SUCCESS: Supplier RESVELTEX SAS created successfully.
+[2025-05-30 16:09:59] Supplier: RESVELTEX SAS (P901062045) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":344,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P901062045\",\"Nombre\":\"RESVELTEX SAS\",\"Contacto\":\"JOSE RESTREPO\",\"Telefono\":\"2661611\",\"Email\":\"joserestrepo@hitexcol.com\",\"Fax\":\"\",\"Direccion\":\"CARRERA 50 79- SUR 101 BG 82 LA ESTRELLA\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:59] Creating supplier 67: SENSO PACK S.A.S (P901171864)...
+[2025-05-30 16:09:59] SUCCESS: Supplier SENSO PACK S.A.S created successfully.
+[2025-05-30 16:09:59] Supplier: SENSO PACK S.A.S (P901171864) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":345,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P901171864\",\"Nombre\":\"SENSO PACK S.A.S\",\"Contacto\":\"JUAN MANUEL CALVETE\",\"Telefono\":\"3074623\",\"Email\":\"calveteorrego@hotmail.com\",\"Fax\":\"\",\"Direccion\":\"CL 84 SUR 37 10 IN 108\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:09:59] Creating supplier 68: CHEM FLUID S.A.S (P901192599)...
+[2025-05-30 16:10:00] SUCCESS: Supplier CHEM FLUID S.A.S created successfully.
+[2025-05-30 16:10:00] Supplier: CHEM FLUID S.A.S (P901192599) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":346,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P901192599\",\"Nombre\":\"CHEM FLUID S.A.S\",\"Contacto\":\"SEBASTIAN GAVIRIA LONDO\u00d1O\",\"Telefono\":\"316288383\",\"Email\":\"ventas@chemfluid.com.co\",\"Fax\":\"\",\"Direccion\":\"CL 49 SUR 45 A 300 OF 1604\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:10:00] Creating supplier 69: CINTAS SOLUPACK S.A.S (P901212096)...
+[2025-05-30 16:10:00] SUCCESS: Supplier CINTAS SOLUPACK S.A.S created successfully.
+[2025-05-30 16:10:00] Supplier: CINTAS SOLUPACK S.A.S (P901212096) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":347,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P901212096\",\"Nombre\":\"CINTAS SOLUPACK S.A.S\",\"Contacto\":\"HECTOR VARELA\",\"Telefono\":\"5701811\",\"Email\":\"cintassolupack@une.net.co\",\"Fax\":\"\",\"Direccion\":\"CR 84 9 17\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:10:00] Skipping already processed supplier: SIGMAPLASTICOS MAYORISTA SAS (P901238020)
+[2025-05-30 16:10:00] Creating supplier 70: BOLTEN SPRAY S.A.S (P901327447)...
+[2025-05-30 16:10:00] SUCCESS: Supplier BOLTEN SPRAY S.A.S created successfully.
+[2025-05-30 16:10:00] Supplier: BOLTEN SPRAY S.A.S (P901327447) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":348,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P901327447\",\"Nombre\":\"BOLTEN SPRAY S.A.S\",\"Contacto\":\"ANDRES VELEZ\",\"Telefono\":\"3319430\",\"Email\":\"\",\"Fax\":\"\",\"Direccion\":\"VIA JUAN MINA KM 5 P2\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:10:00] Creating supplier 71: ELVIS ALFREDO CELIS SUAREZ (P91428879)...
+[2025-05-30 16:10:01] SUCCESS: Supplier ELVIS ALFREDO CELIS SUAREZ created successfully.
+[2025-05-30 16:10:01] Supplier: ELVIS ALFREDO CELIS SUAREZ (P91428879) - SUCCESS - Supplier created successfully
+Response data: {"StatusCode":200,"Message":"Proveedor creado","Entity":"{\"IdProveedor\":349,\"TipoIdentificacion\":\"CC\",\"NumeroIdentificacion\":\"P91428879\",\"Nombre\":\"ELVIS ALFREDO CELIS SUAREZ\",\"Contacto\":\"ELVIS CELIS\",\"Telefono\":\"2351248\",\"Email\":\"\",\"Fax\":\"2351248\",\"Direccion\":\"CL 28 57 44\",\"Pais\":\"CO\",\"Activo\":\"1\",\"CodActividadEconomica\":null,\"CodOrigenRecursos\":2,\"CodSLFCanal\":17,\"CodCiudad\":null,\"EsNivelGlobal\":0,\"Sucursales\":\"1\"}"}
+----------------------------------------
+[2025-05-30 16:10:01] Process completed.

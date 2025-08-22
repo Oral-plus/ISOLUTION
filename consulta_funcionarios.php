@@ -1,0 +1,584 @@
+<?php
+/**
+ * ISOLUCIÓN API Client para Funcionarios
+ * Funciones para interactuar con la API de ISOLUCIÓN - Módulo Funcionarios
+ * 
+ * @version 1.0
+ */
+
+session_start();
+
+// ============================================================================
+// CONFIGURACIÓN DE LA API
+// ============================================================================
+
+// Credenciales de la API
+$username = 'administrador';
+$password = 'Sky2025+';
+$apiKey = 'fbaa4d84-76db-4b1f-b4d4-af28a5aabf30-oralplus.isolucion.co';
+
+// URL base de la API
+$baseApiUrl = 'https://apiiso02.isolucion.co/api';
+
+// Configuración de timeouts
+$defaultTimeout = 30;
+$defaultConnectTimeout = 10;
+
+// ============================================================================
+// FUNCIONES AUXILIARES PARA cURL
+// ============================================================================
+
+/**
+ * Configura los headers básicos para las peticiones a la API
+ * 
+ * @param string $username Usuario de la API
+ * @param string $password Contraseña de la API
+ * @param string $apiKey Clave de la API
+ * @return array Headers configurados
+ */
+function getApiHeaders($username, $password, $apiKey) {
+    $auth = base64_encode("$username:$password");
+    return [
+        'Content-Type: application/json',
+        'Authorization: Basic ' . $auth,
+        'apiKey: ' . $apiKey
+    ];
+}
+
+/**
+ * Procesa la respuesta de cURL y devuelve un resultado estandarizado
+ * 
+ * @param resource $ch Handle de cURL
+ * @param string $response Respuesta de la API
+ * @return array Resultado estandarizado
+ */
+function processCurlResponse($ch, $response) {
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $curlError = curl_error($ch);
+    
+    if ($curlError) {
+        return [
+            'success' => false,
+            'message' => 'Error cURL: ' . $curlError,
+            'data' => null,
+            'httpCode' => $httpCode
+        ];
+    }
+    
+    // Intentar decodificar la respuesta JSON
+    $decodedResponse = json_decode($response, true);
+    
+    if ($httpCode >= 400) {
+        $errorMessage = 'Error HTTP: ' . $httpCode;
+        if ($decodedResponse && isset($decodedResponse['Message'])) {
+            $errorMessage .= ' - ' . $decodedResponse['Message'];
+        }
+        
+        return [
+            'success' => false,
+            'message' => $errorMessage,
+            'data' => $decodedResponse,
+            'httpCode' => $httpCode
+        ];
+    }
+    
+    // Verificar si la respuesta tiene StatusCode (formato ISOLUCIÓN)
+    if ($decodedResponse && isset($decodedResponse['StatusCode'])) {
+        if ($decodedResponse['StatusCode'] == 200) {
+            return [
+                'success' => true,
+                'message' => $decodedResponse['Message'] ?? 'Operación exitosa',
+                'data' => $decodedResponse,
+                'httpCode' => $httpCode
+            ];
+        } else {
+            return [
+                'success' => false,
+                'message' => $decodedResponse['Message'] ?? 'Error en la operación',
+                'data' => $decodedResponse,
+                'httpCode' => $httpCode
+            ];
+        }
+    }
+    
+    // Respuesta exitosa sin StatusCode específico
+    return [
+        'success' => true,
+        'message' => 'Operación exitosa',
+        'data' => $decodedResponse ?? $response,
+        'httpCode' => $httpCode
+    ];
+}
+
+// ============================================================================
+// FUNCIONES PRINCIPALES DE cURL
+// ============================================================================
+
+/**
+ * Envía datos por POST a la API con cURL
+ * 
+ * @param string $url URL de destino
+ * @param string $jsonData Datos en formato JSON
+ * @param string $username Usuario de la API
+ * @param string $password Contraseña de la API
+ * @param string $apiKey Clave de la API
+ * @return array Resultado de la operación
+ */
+function postApiDataWithCurl($url, $jsonData, $username, $password, $apiKey) {
+    global $defaultTimeout, $defaultConnectTimeout;
+    
+    $ch = curl_init();
+    
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_POST => true,
+        CURLOPT_POSTFIELDS => $jsonData,
+        CURLOPT_HTTPHEADER => getApiHeaders($username, $password, $apiKey),
+        CURLOPT_TIMEOUT => $defaultTimeout,
+        CURLOPT_CONNECTTIMEOUT => $defaultConnectTimeout,
+        CURLOPT_SSL_VERIFYPEER => false, // Solo para desarrollo
+        CURLOPT_VERBOSE => false
+    ]);
+    
+    $response = curl_exec($ch);
+    $result = processCurlResponse($ch, $response);
+    
+    curl_close($ch);
+    return $result;
+}
+
+/**
+ * Envía datos por PUT a la API con cURL
+ * 
+ * @param string $url URL de destino
+ * @param string $jsonData Datos en formato JSON
+ * @param string $username Usuario de la API
+ * @param string $password Contraseña de la API
+ * @param string $apiKey Clave de la API
+ * @return array Resultado de la operación
+ */
+function putApiDataWithCurl($url, $jsonData, $username, $password, $apiKey) {
+    global $defaultTimeout, $defaultConnectTimeout;
+    
+    $ch = curl_init();
+    
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_CUSTOMREQUEST => 'PUT',
+        CURLOPT_POSTFIELDS => $jsonData,
+        CURLOPT_HTTPHEADER => getApiHeaders($username, $password, $apiKey),
+        CURLOPT_TIMEOUT => $defaultTimeout,
+        CURLOPT_CONNECTTIMEOUT => $defaultConnectTimeout,
+        CURLOPT_SSL_VERIFYPEER => false, // Solo para desarrollo
+        CURLOPT_VERBOSE => false
+    ]);
+    
+    $response = curl_exec($ch);
+    $result = processCurlResponse($ch, $response);
+    
+    curl_close($ch);
+    return $result;
+}
+
+/**
+ * Obtiene datos con GET desde la API con cURL
+ * 
+ * @param string $url URL de destino
+ * @param string $username Usuario de la API
+ * @param string $password Contraseña de la API
+ * @param string $apiKey Clave de la API
+ * @return array Resultado de la operación
+ */
+function getApiDataWithCurl($url, $username, $password, $apiKey) {
+    global $defaultTimeout, $defaultConnectTimeout;
+    
+    $ch = curl_init();
+    
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_HTTPHEADER => getApiHeaders($username, $password, $apiKey),
+        CURLOPT_TIMEOUT => $defaultTimeout,
+        CURLOPT_CONNECTTIMEOUT => $defaultConnectTimeout,
+        CURLOPT_SSL_VERIFYPEER => false, // Solo para desarrollo
+        CURLOPT_VERBOSE => false
+    ]);
+    
+    $response = curl_exec($ch);
+    $result = processCurlResponse($ch, $response);
+    
+    curl_close($ch);
+    return $result;
+}
+
+// ============================================================================
+// FUNCIONES ESPECÍFICAS PARA FUNCIONARIOS
+// ============================================================================
+
+/**
+ * Crea un nuevo funcionario en ISOLUCIÓN
+ * 
+ * @param array $funcionarioData Datos del funcionario
+ * @return array Resultado de la operación
+ */
+function createEmployee($funcionarioData) {
+    global $username, $password, $apiKey, $baseApiUrl;
+    
+    $url = $baseApiUrl . '/funcionarios/';
+    $jsonData = json_encode($funcionarioData);
+    
+    // Registrar la solicitud para depuración
+    logApiCall('CREATE_EMPLOYEE', $funcionarioData, null);
+    
+    $result = postApiDataWithCurl($url, $jsonData, $username, $password, $apiKey);
+    
+    // Registrar la respuesta
+    logApiCall('CREATE_EMPLOYEE_RESPONSE', $funcionarioData, $result);
+    
+    return $result;
+}
+
+/**
+ * Actualiza un funcionario existente en ISOLUCIÓN
+ * 
+ * @param array $funcionarioData Datos del funcionario a actualizar
+ * @return array Resultado de la operación
+ */
+function updateEmployee($funcionarioData) {
+    global $username, $password, $apiKey, $baseApiUrl;
+    
+    $url = $baseApiUrl . '/funcionarios/';
+    $jsonData = json_encode($funcionarioData);
+    
+    return putApiDataWithCurl($url, $jsonData, $username, $password, $apiKey);
+}
+
+/**
+ * Obtiene la lista de funcionarios desde ISOLUCIÓN
+ * 
+ * @param array $filters Filtros opcionales para la consulta
+ * @return array Resultado de la operación
+ */
+function getEmployees($filters = []) {
+    global $username, $password, $apiKey, $baseApiUrl;
+    
+    $url = $baseApiUrl . '/funcionarios/';
+    
+    // Agregar filtros como parámetros GET si se proporcionan
+    if (!empty($filters)) {
+        $queryString = http_build_query($filters);
+        $url .= '?' . $queryString;
+    }
+    
+    return getApiDataWithCurl($url, $username, $password, $apiKey);
+}
+
+/**
+ * Obtiene un funcionario específico por su documento
+ * 
+ * @param string $numeroIdentificacion Número de identificación del funcionario
+ * @return array Resultado de la operación
+ */
+function getEmployeeByDocument($numeroIdentificacion) {
+    global $username, $password, $apiKey, $baseApiUrl;
+    
+    $url = $baseApiUrl . '/funcionarios/' . urlencode($numeroIdentificacion);
+    
+    return getApiDataWithCurl($url, $username, $password, $apiKey);
+}
+
+// ============================================================================
+// FUNCIONES DE UTILIDAD
+// ============================================================================
+
+/**
+ * Formatea una fecha al formato ISO8601 requerido por la API
+ * Formato requerido: yyyy-MM-ddTHH:mm:ss (ejemplo: 2018-08-01T13:50:55)
+ * 
+ * @param string|DateTime $date Fecha en formato Y-m-d, timestamp o DateTime
+ * @return string Fecha en formato ISO8601 sin timezone
+ */
+function formatDateISO8601($date) {
+    if (empty($date)) {
+        return null;
+    }
+    
+    try {
+        // Si ya es un objeto DateTime
+        if ($date instanceof DateTime) {
+            return $date->format('Y-m-d\TH:i:s');
+        }
+        
+        // Si ya está en el formato correcto, devolverla tal como está
+        if (preg_match('/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/', $date)) {
+            return $date;
+        }
+        
+        // Si es solo fecha (Y-m-d), agregar hora por defecto
+        if (preg_match('/^\d{4}-\d{2}-\d{2}$/', $date)) {
+            return $date . 'T00:00:00';
+        }
+        
+        // Si es formato yyyy-MM-dd HH:mm:ss, convertir
+        if (preg_match('/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/', $date)) {
+            return str_replace(' ', 'T', $date);
+        }
+        
+        // Intentar parsear la fecha y convertirla
+        $dateTime = new DateTime($date);
+        return $dateTime->format('Y-m-d\TH:i:s');
+        
+    } catch (Exception $e) {
+        // Si hay error, devolver fecha actual
+        $now = new DateTime();
+        return $now->format('Y-m-d\TH:i:s');
+    }
+}
+
+/**
+ * Valida específicamente el formato de fechas ISO8601
+ * 
+ * @param string $date Fecha a validar
+ * @return bool True si es válida, false si no
+ */
+function validateISO8601Date($date) {
+    if (empty($date)) {
+        return true; // Las fechas opcionales pueden estar vacías
+    }
+    
+    // Patrón para yyyy-MM-ddTHH:mm:ss
+    $pattern = '/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/';
+    
+    if (!preg_match($pattern, $date)) {
+        return false;
+    }
+    
+    // Validar que sea una fecha real
+    try {
+        $dateTime = DateTime::createFromFormat('Y-m-d\TH:i:s', $date);
+        return $dateTime && $dateTime->format('Y-m-d\TH:i:s') === $date;
+    } catch (Exception $e) {
+        return false;
+    }
+}
+
+/**
+ * Valida los datos mínimos requeridos para un funcionario
+ * 
+ * @param array $funcionarioData Datos del funcionario
+ * @return array Resultado de la validación
+ */
+function validateEmployeeData($funcionarioData) {
+    $requiredFields = [
+        'TipoIdentificacion', 'NumeroIdentificacion', 'Nombre', 'Login',
+        'Genero', 'Departamento', 'Ciudad', 'Zona', 'Cargo', 'FechaIngreso',
+        'Jornada', 'TipoVinculacion', 'Eps', 'Afp', 'Arl'
+    ];
+    $missingFields = [];
+    
+    foreach ($requiredFields as $field) {
+        if (empty($funcionarioData[$field])) {
+            $missingFields[] = $field;
+        }
+    }
+    
+    if (!empty($missingFields)) {
+        return [
+            'valid' => false,
+            'message' => 'Faltan campos requeridos: ' . implode(', ', $missingFields),
+            'missing_fields' => $missingFields
+        ];
+    }
+    
+    // Validar formato de email si se proporciona
+    if (!empty($funcionarioData['Correo']) && !filter_var($funcionarioData['Correo'], FILTER_VALIDATE_EMAIL)) {
+        return [
+            'valid' => false,
+            'message' => 'El formato del correo no es válido',
+            'missing_fields' => []
+        ];
+    }
+    
+    // Validar fechas ISO8601
+    $dateFields = ['FechaNacimiento', 'FechaIngreso'];
+    foreach ($dateFields as $field) {
+        if (!empty($funcionarioData[$field])) {
+            if (!validateISO8601Date($funcionarioData[$field])) {
+                return [
+                    'valid' => false,
+                    'message' => "El formato de fecha para $field no es válido. Debe ser yyyy-MM-ddTHH:mm:ss (ejemplo: 2018-08-01T13:50:55). Recibido: " . $funcionarioData[$field],
+                    'missing_fields' => []
+                ];
+            }
+        }
+    }
+    
+    return [
+        'valid' => true,
+        'message' => 'Datos válidos',
+        'missing_fields' => []
+    ];
+}
+
+/**
+ * Registra errores en un archivo de log
+ * 
+ * @param string $message Mensaje de error
+ * @param array $context Contexto adicional del error
+ */
+function logApiError($message, $context = []) {
+    $logFile = __DIR__ . '/api_errors.log';
+    $timestamp = date('Y-m-d H:i:s');
+    $logEntry = "[$timestamp] $message";
+    
+    if (!empty($context)) {
+        $logEntry .= " | Context: " . json_encode($context);
+    }
+    
+    $logEntry .= PHP_EOL;
+    
+    file_put_contents($logFile, $logEntry, FILE_APPEND | LOCK_EX);
+}
+
+/**
+ * Registra llamadas a la API para depuración
+ * 
+ * @param string $operation Operación realizada
+ * @param array $requestData Datos enviados
+ * @param array $responseData Datos recibidos
+ */
+function logApiCall($operation, $requestData, $responseData) {
+    $logFile = __DIR__ . '/api_calls.log';
+    $timestamp = date('Y-m-d H:i:s');
+    
+    $logEntry = "[$timestamp] $operation\n";
+    $logEntry .= "REQUEST: " . json_encode($requestData, JSON_PRETTY_PRINT) . "\n";
+    
+    if ($responseData !== null) {
+        $logEntry .= "RESPONSE: " . json_encode($responseData, JSON_PRETTY_PRINT) . "\n";
+    }
+    
+    $logEntry .= "----------------------------------------\n";
+    
+    file_put_contents($logFile, $logEntry, FILE_APPEND | LOCK_EX);
+}
+
+/**
+ * Genera un login único basado en el nombre y documento
+ * 
+ * @param string $nombre Nombre del funcionario
+ * @param string $documento Documento del funcionario
+ * @return string Login generado
+ */
+function generateUniqueLogin($nombre, $documento) {
+    // Limpiar el nombre
+    $nombreLimpio = strtolower(trim($nombre));
+    $nombreLimpio = preg_replace('/[^a-z0-9]/', '', $nombreLimpio);
+    
+    // Tomar las primeras letras del nombre y agregar parte del documento
+    $login = substr($nombreLimpio, 0, 6) . substr($documento, -4);
+    
+    return $login;
+}
+
+// ============================================================================
+// FUNCIONES DE TESTING (OPCIONAL)
+// ============================================================================
+
+/**
+ * Prueba la conectividad con la API
+ * 
+ * @return array Resultado de la prueba
+ */
+function testApiConnection() {
+    global $username, $password, $apiKey, $baseApiUrl;
+    
+    $url = $baseApiUrl . '/funcionarios/';
+    $result = getApiDataWithCurl($url, $username, $password, $apiKey);
+    
+    if ($result['success']) {
+        return [
+            'success' => true,
+            'message' => 'Conexión exitosa con la API',
+            'data' => $result
+        ];
+    } else {
+        logApiError('Error en prueba de conexión', $result);
+        return [
+            'success' => false,
+            'message' => 'Error de conexión: ' . $result['message'],
+            'data' => $result
+        ];
+    }
+}
+
+/**
+ * Crea un funcionario de prueba para verificar la API
+ * 
+ * @return array Resultado de la operación
+ */
+function createTestEmployee() {
+    $randomId = rand(100000, 999999);
+    
+    // Crear fechas en el formato correcto
+    $birthDate = '1990-01-01T00:00:00';
+    $hireDate = date('Y-m-d\TH:i:s');
+    
+    $testEmployee = [
+        'TipoIdentificacion' => 'CC',
+        'NumeroIdentificacion' => '1000' . $randomId,
+        'Nombre' => 'Funcionario Prueba ' . date('Y-m-d H:i:s'),
+        'Login' => 'test' . $randomId . '@empresa.com',
+        'Correo' => 'test' . $randomId . '@empresa.com',
+        'FechaNacimiento' => $birthDate,
+        'Genero' => 'Masculino',
+       'Departamento'=> 'Bogota',
+                                 'Ciudad' => 'BOGOTÁ D.C.',
+                                              
+        'Zona' => 'Urbana',
+        'Cargo' => 'Analista',
+        'FechaIngreso' => $hireDate,
+        'Jornada' => 'Normal',
+        'TipoVinculacion' => 'Laboral',
+        'Eps' => 'SURA',
+        'Afp' => 'Protección',
+        'Arl' => 'SURA',
+        
+        'Direccion' => 'Calle ' . rand(1, 200) . ' #' . rand(1, 99) . '-' . rand(1, 99),
+        'Telefono' => '300' . rand(1000000, 9999999),
+        'CodActividadEconomica' => 2,
+        'CodOrigenRecursos' => 2,
+     
+        'CodArea' => 1,
+        'EsNivelGlobal' => 0,
+        'Sucursales' => '1,3'
+    ];
+    
+    return createEmployee($testEmployee);
+}
+
+// Si se ejecuta directamente este archivo, realizar pruebas
+if (basename(__FILE__) == basename($_SERVER['SCRIPT_NAME'])) {
+    echo "=== ISOLUCIÓN Funcionarios API Test ===\n\n";
+    
+    echo "Testing API connection...\n";
+    $connectionTest = testApiConnection();
+    echo "Connection result: " . ($connectionTest['success'] ? 'SUCCESS' : 'FAILED') . "\n";
+    echo "Message: " . $connectionTest['message'] . "\n\n";
+    
+    if ($connectionTest['success']) {
+        echo "Testing employee creation...\n";
+        $testResult = createTestEmployee();
+        echo "Creation result: " . ($testResult['success'] ? 'SUCCESS' : 'FAILED') . "\n";
+        echo "Message: " . $testResult['message'] . "\n";
+        
+        if (isset($testResult['data'])) {
+            echo "Response data: " . json_encode($testResult['data'], JSON_PRETTY_PRINT) . "\n";
+        }
+    }
+    
+    echo "\n=== Test completed ===\n";
+}
+?>

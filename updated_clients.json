@@ -1,0 +1,986 @@
+{
+    "C1013641080": {
+        "name": "GUERRERO BUITRAGO FABIAN ANDRES",
+        "updated_at": "2025-05-30 15:22:04"
+    },
+    "C1015426190": {
+        "name": "MOLINA CUESTA JOSE JAVIER",
+        "updated_at": "2025-05-30 15:22:05"
+    },
+    "C1032395623": {
+        "name": "CACERES AGUILAR OTONIEL",
+        "updated_at": "2025-05-30 15:22:06"
+    },
+    "C1037500185": {
+        "name": "VALENCIA HENAO EDISON ALBERTO",
+        "updated_at": "2025-05-30 15:22:07"
+    },
+    "C1042453354": {
+        "name": "DUVAN ENRIQUE REALES SANDOVAL",
+        "updated_at": "2025-05-30 15:22:08"
+    },
+    "C1053856293-3": {
+        "name": "MARTINEZ ZULUAGA SANTIAGO",
+        "updated_at": "2025-05-30 15:22:09"
+    },
+    "C1061706025": {
+        "name": "BENAVIDES ORTEGA JIMY ALBERTO",
+        "updated_at": "2025-05-30 15:22:10"
+    },
+    "C1077867061": {
+        "name": "MACIAS GUARNIZO JUAN DAVID",
+        "updated_at": "2025-05-30 15:22:11"
+    },
+    "C1082773130": {
+        "name": "JIMENEZ UNI JHON ALEXANDER",
+        "updated_at": "2025-05-30 15:22:12"
+    },
+    "C1085259562": {
+        "name": "DIAZ PEREZ JAIRO ANDRES",
+        "updated_at": "2025-05-30 15:22:13"
+    },
+    "C1086921651": {
+        "name": "GAVIRIA GUERRERO BOLIVAR CLAUDIO",
+        "updated_at": "2025-05-30 15:22:14"
+    },
+    "C1087047100": {
+        "name": "RODRIGUEZ RUALES WILIAM CAMILO",
+        "updated_at": "2025-05-30 15:22:15"
+    },
+    "C1093779674": {
+        "name": "BARRANCO VILLEGAS ANDREA KATHERINE",
+        "updated_at": "2025-05-30 15:22:16"
+    },
+    "C1095458153": {
+        "name": "ALBINO GOMEZ ROSA DELIA",
+        "updated_at": "2025-05-30 15:22:17"
+    },
+    "C1098675301": {
+        "name": "RINCON VILLEGAS DEILYS YILENA",
+        "updated_at": "2025-05-30 15:22:18"
+    },
+    "C1113670440": {
+        "name": "HENAO VASQUEZ MARIA PAULA",
+        "updated_at": "2025-05-30 15:22:19"
+    },
+    "C1118560585": {
+        "name": "SALAMANCA CACERES HEINER SEBASTIAN",
+        "updated_at": "2025-05-30 15:22:20"
+    },
+    "C1121958638": {
+        "name": "VELASQUEZ ROJAS CRISTIAN CAMILO",
+        "updated_at": "2025-05-30 15:22:21"
+    },
+    "C11408455": {
+        "name": "PABON HERRERA LUIS HUMBERTO",
+        "updated_at": "2025-05-30 15:22:22"
+    },
+    "C1143234112": {
+        "name": "ANDRADE MERCHAN LUIS ALBERTO",
+        "updated_at": "2025-05-30 15:22:23"
+    },
+    "C1144129626": {
+        "name": "QUINTERO ARBELAEZ JUAN CARLOS",
+        "updated_at": "2025-05-30 15:22:24"
+    },
+    "C12201728": {
+        "name": "MU\u00d1OZ CORTEZ WILDER ANDRES",
+        "updated_at": "2025-05-30 15:22:25"
+    },
+    "C12236224-3": {
+        "name": "TOVAR VALENCIA JESUS ANTONIO",
+        "updated_at": "2025-05-30 15:22:26"
+    },
+    "C15317178": {
+        "name": "GOMEZ OROZCO LIBARDO ANTONIO",
+        "updated_at": "2025-05-30 15:22:27"
+    },
+    "C15442389": {
+        "name": "SERNA RAMIREZ ELKIN",
+        "updated_at": "2025-05-30 15:22:28"
+    },
+    "C15931849": {
+        "name": "GIRALDO LOPEZ JUAN FELIPE",
+        "updated_at": "2025-05-30 15:22:29"
+    },
+    "C15959187": {
+        "name": "HIGUERA VALENCIA BENEDITO",
+        "updated_at": "2025-05-30 15:22:30"
+    },
+    "C17593526": {
+        "name": "PE\u00d1ALOZA SANTOS WILBER ALEXANDER",
+        "updated_at": "2025-05-30 15:22:31"
+    },
+    "C17681821": {
+        "name": "RUBIO CAMPOS REINERIO",
+        "updated_at": "2025-05-30 15:22:32"
+    },
+    "C21178917": {
+        "name": "MARIN MORALES NATIVIDAD",
+        "updated_at": "2025-05-30 15:22:33"
+    },
+    "C27180802": {
+        "name": "LOPEZ DOLI",
+        "updated_at": "2025-05-30 15:22:34"
+    },
+    "C30735105": {
+        "name": "HERRERA RAMIREZ CARMEN PATRICIA",
+        "updated_at": "2025-05-30 15:22:35"
+    },
+    "C37342673": {
+        "name": "ANGARITA CONTRERAS AURA ELPIDIA",
+        "updated_at": "2025-05-30 15:22:36"
+    },
+    "C39536225": {
+        "name": "ARROYAVE TABARES MARIA MARLENY",
+        "updated_at": "2025-05-30 15:22:37"
+    },
+    "C41100646": {
+        "name": "RODRIGUEZ DE RODRIGUEZ GLORIA DEL CARMEN",
+        "updated_at": "2025-05-30 15:22:38"
+    },
+    "C41116345": {
+        "name": "ACOSTA ACOSTA GLORIA LIDA",
+        "updated_at": "2025-05-30 15:22:39"
+    },
+    "C43055384-2": {
+        "name": "VARELA JIMENEZ CLAUDIA PATRICIA",
+        "updated_at": "2025-05-30 15:22:40"
+    },
+    "C43082261-2": {
+        "name": "HERRERA ZAPATA MARTA ELENA",
+        "updated_at": "2025-05-30 15:22:41"
+    },
+    "C43422450": {
+        "name": "SANCHEZ SALAZAR LUCERO",
+        "updated_at": "2025-05-30 15:22:42"
+    },
+    "C43589386-2": {
+        "name": "QUINTANA GRAJALES DIANA PATRICIA",
+        "updated_at": "2025-05-30 15:22:43"
+    },
+    "C43643623": {
+        "name": "DUQUE LOPEZ MARIA EMILCEN",
+        "updated_at": "2025-05-30 15:22:44"
+    },
+    "C44155309": {
+        "name": "ARMESTO  RIZCALA  KATHERINE",
+        "updated_at": "2025-05-30 15:22:45"
+    },
+    "C444444033": {
+        "name": "SKY LAB USA LLC",
+        "updated_at": "2025-05-30 15:22:46"
+    },
+    "C45554012": {
+        "name": "NIETO CASTILLO BRENDA LEONOR",
+        "updated_at": "2025-05-30 15:22:47"
+    },
+    "C49555556-2": {
+        "name": "CABALLERO RANGEL IRGEN",
+        "updated_at": "2025-05-30 15:22:48"
+    },
+    "C53101650": {
+        "name": "MAYORGA CALLEJAS MARIA DEL PILAR DE LOS ANGELES",
+        "updated_at": "2025-05-30 15:22:49"
+    },
+    "C5608504": {
+        "name": "SEPULVEDA MOJICA MARCO ALIRIO",
+        "updated_at": "2025-05-30 15:22:50"
+    },
+    "C5619928": {
+        "name": "CARDENAS OROZCO DAVID",
+        "updated_at": "2025-05-30 15:22:51"
+    },
+    "C5670719": {
+        "name": "BAYONA SERRANO ANTONIO",
+        "updated_at": "2025-05-30 15:22:52"
+    },
+    "C6761024-2": {
+        "name": "HERNANDEZ GALLO MARIO ERNESTO",
+        "updated_at": "2025-05-30 15:22:53"
+    },
+    "C69007806": {
+        "name": "ENRIQUEZ QUISTIAL MARTHA LUCIA",
+        "updated_at": "2025-05-30 15:22:54"
+    },
+    "C70351028": {
+        "name": "RAMIREZ DUQUE LEONEL DE JESUS",
+        "updated_at": "2025-05-30 15:22:55"
+    },
+    "C70353742": {
+        "name": "GIRALDO MARIN JHONY ANDRES",
+        "updated_at": "2025-05-30 15:22:56"
+    },
+    "C70694149": {
+        "name": "GOMEZ GOMEZ JESUS ANTONIO",
+        "updated_at": "2025-05-30 15:22:57"
+    },
+    "C70698541": {
+        "name": "RAMIREZ ZULUAGA DIEGO ALEXANDER",
+        "updated_at": "2025-05-30 15:22:58"
+    },
+    "C71313844": {
+        "name": "ESCOBAR FERNANDEZ JORGE IVAN",
+        "updated_at": "2025-05-30 15:22:59"
+    },
+    "C7166600": {
+        "name": "RODRIGUEZ ESTUPI\u00d1AN ALEXANDER",
+        "updated_at": "2025-05-30 15:23:00"
+    },
+    "C7213708": {
+        "name": "ESPEJO CAMARGO JOSE MARIO",
+        "updated_at": "2025-05-30 15:23:01"
+    },
+    "C7215168": {
+        "name": "GUATIBONZA CELY RAFAEL HERNAN",
+        "updated_at": "2025-05-30 15:23:02"
+    },
+    "C72264272-2": {
+        "name": "BENJUMEA SOLIS HANNYS PETER",
+        "updated_at": "2025-05-30 15:23:03"
+    },
+    "C7304975": {
+        "name": "SALINA SIERRA LUIS ORLANDO",
+        "updated_at": "2025-05-30 15:23:04"
+    },
+    "C74374334": {
+        "name": "SOLANO TORRES NORBERTO ALEXANDER",
+        "updated_at": "2025-05-30 15:23:05"
+    },
+    "C75080945": {
+        "name": "SUAREZ HINCAPIE CARLOS MARIO",
+        "updated_at": "2025-05-30 15:23:06"
+    },
+    "C76320560": {
+        "name": "BETANCOURT LOZADA WILSON URIEL",
+        "updated_at": "2025-05-30 15:23:07"
+    },
+    "C79399876": {
+        "name": "ORJUELA CALDERON MODESTO",
+        "updated_at": "2025-05-30 15:23:08"
+    },
+    "C79452689": {
+        "name": "BECERRA MARTINEZ JUAN CARLOS",
+        "updated_at": "2025-05-30 15:23:09"
+    },
+    "C79607465": {
+        "name": "RODRIGUEZ ORTIZ GONZALO",
+        "updated_at": "2025-05-30 15:23:10"
+    },
+    "C79609701": {
+        "name": "VERDUGO BARON JAVIER",
+        "updated_at": "2025-05-30 15:23:11"
+    },
+    "C800010668": {
+        "name": "AUTO-SERVICIO EL PERDOMO LTDA",
+        "updated_at": "2025-05-30 15:23:12"
+    },
+    "C800037835": {
+        "name": "COMERCIALIZADORA LA BONANZA S.A.S",
+        "updated_at": "2025-05-30 15:23:13"
+    },
+    "C800045218": {
+        "name": "SUPERORIENTE S.A",
+        "updated_at": "2025-05-30 15:23:14"
+    },
+    "C800059785": {
+        "name": "CABO DISTRIBUCIONES HOTELERAS SAS",
+        "updated_at": "2025-05-30 15:23:15"
+    },
+    "C800106774": {
+        "name": "MERCADO ZAPATOCA S A",
+        "updated_at": "2025-05-30 15:23:16"
+    },
+    "C80012414": {
+        "name": "SOLER PINEDA FRED HERNAN",
+        "updated_at": "2025-05-30 15:23:17"
+    },
+    "C800240674": {
+        "name": "SKY S.A.S",
+        "updated_at": "2025-05-30 15:23:19"
+    },
+    "C800252176": {
+        "name": "MERCACENTRO S.A.S.",
+        "updated_at": "2025-05-30 15:23:20"
+    },
+    "C80175247": {
+        "name": "HERNANDEZ DELGADILLO JOHN WALTER",
+        "updated_at": "2025-05-30 15:23:21"
+    },
+    "C805015151": {
+        "name": "QUICENO & CIA S.C.A.",
+        "updated_at": "2025-05-30 15:23:22"
+    },
+    "C805021782": {
+        "name": "COMERCIALIZADORA FLORALIA S.A",
+        "updated_at": "2025-05-30 15:23:23"
+    },
+    "C805027024-13": {
+        "name": "SUPERMERCADO LA GRAN COLOMBIA S.A",
+        "updated_at": "2025-05-30 15:23:24"
+    },
+    "C805027902": {
+        "name": "AUTOSERVICIO MERCA UNION S.A",
+        "updated_at": "2025-05-30 15:23:25"
+    },
+    "C807006293": {
+        "name": "CACHARRERIA Y PAPELERIA SUMAS Y RESTAS S.A.S.",
+        "updated_at": "2025-05-30 15:23:26"
+    },
+    "C811004437": {
+        "name": "COOPERATIVA DE SERVICIOS PUBLICOS",
+        "updated_at": "2025-05-30 15:23:27"
+    },
+    "C811038056": {
+        "name": "LABORATORIOS ZEN-DENT S.A.S.",
+        "updated_at": "2025-05-30 15:23:28"
+    },
+    "C811045607-27": {
+        "name": "INVERSIONES EURO S. A.",
+        "updated_at": "2025-05-30 15:23:29"
+    },
+    "C812005190": {
+        "name": "DEPOSITO DE DROGAS PARIS LTDA",
+        "updated_at": "2025-05-30 15:23:30"
+    },
+    "C816007754": {
+        "name": "EMPRENDER S.A. SOCIEDAD ANONIMA",
+        "updated_at": "2025-05-30 15:23:31"
+    },
+    "C817004260": {
+        "name": "GRUPO DAO SAS",
+        "updated_at": "2025-05-30 15:23:32"
+    },
+    "C823000097": {
+        "name": "COMERCIALIZADORA MULTIDROGAS DE COLOMBIA S.A.S.",
+        "updated_at": "2025-05-30 15:23:33"
+    },
+    "C826000361": {
+        "name": "ALMACENES PARAISO S.A",
+        "updated_at": "2025-05-30 15:23:34"
+    },
+    "C830011670": {
+        "name": "COPSERVIR LTDA",
+        "updated_at": "2025-05-30 15:23:36"
+    },
+    "C830111876": {
+        "name": "DISTRIBUIDORA EL FARO LTDA",
+        "updated_at": "2025-05-30 15:23:37"
+    },
+    "C830512218": {
+        "name": "MEDIMARCAS",
+        "updated_at": "2025-05-30 15:23:38"
+    },
+    "C830515053": {
+        "name": "INVERSIONES CANO PEREZ S.A.S",
+        "updated_at": "2025-05-30 15:23:39"
+    },
+    "C83241159": {
+        "name": "GOMEZ MORENO NELSON ELIER",
+        "updated_at": "2025-05-30 15:23:40"
+    },
+    "C860007336": {
+        "name": "CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO",
+        "updated_at": "2025-05-30 15:23:41"
+    },
+    "C860026123": {
+        "name": "COOPERATIVA NACIONAL DE DROGUISTAS DETALLISTAS",
+        "updated_at": "2025-05-30 15:23:42"
+    },
+    "C860030478": {
+        "name": "LOS TRES ELEFANTES S.A.",
+        "updated_at": "2025-05-30 15:23:43"
+    },
+    "C860514592": {
+        "name": "DEPOSITO PRINCIPAL DE DROGAS",
+        "updated_at": "2025-05-30 15:23:44"
+    },
+    "C890000381": {
+        "name": "CAJA DE COMPENSACION FAMILIAR DE FENALCO QUINDIO",
+        "updated_at": "2025-05-30 15:23:45"
+    },
+    "C890807047": {
+        "name": "CUATRO MILPAS S.A.S.",
+        "updated_at": "2025-05-30 15:23:46"
+    },
+    "C890900608-131": {
+        "name": "ALMACENES EXITO S.A",
+        "updated_at": "2025-05-30 15:23:47"
+    },
+    "C890901475": {
+        "name": "DISTRIBUIDORA FARMACEUTICA ROMA S.A",
+        "updated_at": "2025-05-30 15:23:48"
+    },
+    "C890929329": {
+        "name": "SUPERMERCADO LOS IBA\u00d1EZ Y COMPA\u00d1\u00cdA S.A.S",
+        "updated_at": "2025-05-30 15:23:49"
+    },
+    "C890937015": {
+        "name": "DISTRIBUIDORA TROPICANA S.A.S",
+        "updated_at": "2025-05-30 15:23:50"
+    },
+    "C890943093": {
+        "name": "MERCAVIL S.A.S",
+        "updated_at": "2025-05-30 15:23:51"
+    },
+    "C900026490": {
+        "name": "SUPERMERCADO MERCADIARIO LTDA",
+        "updated_at": "2025-05-30 15:23:52"
+    },
+    "C900029130": {
+        "name": "MERCADOS Y CARNES OR S.A.S",
+        "updated_at": "2025-05-30 15:23:53"
+    },
+    "C900036404": {
+        "name": "PRODUCTOS ORO WHITE S.A.S",
+        "updated_at": "2025-05-30 15:23:54"
+    },
+    "C900061224": {
+        "name": "MERCAMIO S.A.",
+        "updated_at": "2025-05-30 15:23:55"
+    },
+    "C900069557": {
+        "name": "INVERSIONES EL MERCADEO S.A.S.",
+        "updated_at": "2025-05-30 15:23:56"
+    },
+    "C900093635": {
+        "name": "SUPERMERCADOS LA 29 S.A.S",
+        "updated_at": "2025-05-30 15:23:57"
+    },
+    "C900119072": {
+        "name": "SUPERMERCADOS MAS POR MENOS S.A.S",
+        "updated_at": "2025-05-30 15:23:58"
+    },
+    "C900169541": {
+        "name": "COMERCIALIZADORA LA POSADA SAS",
+        "updated_at": "2025-05-30 15:23:59"
+    },
+    "C900180724": {
+        "name": "DISTRIBUCIONES MACROVENTAS LTDA",
+        "updated_at": "2025-05-30 15:24:00"
+    },
+    "C900183522": {
+        "name": "INVERSIONES LATORRE JARAMILLO S.A.S",
+        "updated_at": "2025-05-30 15:24:01"
+    },
+    "C900194078": {
+        "name": "DISTRIBUIDORA SOFI SAS",
+        "updated_at": "2025-05-30 15:24:02"
+    },
+    "C900203566": {
+        "name": "ABASTECEMOS DE OCCIDENTE S.A.S",
+        "updated_at": "2025-05-30 15:24:03"
+    },
+    "C900272509": {
+        "name": "ALMACENES SUPERMIO CENTRO S.A.S",
+        "updated_at": "2025-05-30 15:24:04"
+    },
+    "C900273435": {
+        "name": "REPRESENTACIONES IDARRAGA E IDARRAGA SAS",
+        "updated_at": "2025-05-30 15:24:05"
+    },
+    "C900273686": {
+        "name": "COMERCIALIZADORA MERCALDAS S.A",
+        "updated_at": "2025-05-30 15:24:06"
+    },
+    "C900279785": {
+        "name": "TECNOVENTAS DISTRIBUCIONES S.A.S",
+        "updated_at": "2025-05-30 15:24:07"
+    },
+    "C900296368": {
+        "name": "COMERCIALIZADORA FARMACEUTICA ANDINA S.A.S",
+        "updated_at": "2025-05-30 15:24:08"
+    },
+    "C900307767": {
+        "name": "AUTOSERVICIO MERK CENTRO SEVILLA S.A",
+        "updated_at": "2025-05-30 15:24:09"
+    },
+    "C900320144": {
+        "name": "FARMACOS DE LA COSTA LTDA",
+        "updated_at": "2025-05-30 15:24:10"
+    },
+    "C900320751": {
+        "name": "LA ECONOMIA COMERCIAL S.A.S",
+        "updated_at": "2025-05-30 15:24:11"
+    },
+    "C900358936": {
+        "name": "TRILLADOS Y DISTRIBUCIONES DEL SARARE S. A. S.",
+        "updated_at": "2025-05-30 15:24:12"
+    },
+    "C900361017": {
+        "name": "COMERCIALIZADORA LOPEZ HERMANOS SAS",
+        "updated_at": "2025-05-30 15:24:13"
+    },
+    "C900381458": {
+        "name": "SUPERMERCADOS EL CAFETAL SAS",
+        "updated_at": "2025-05-30 15:24:14"
+    },
+    "C900384953": {
+        "name": "SUPERTIENDA PLAZA S.A.S",
+        "updated_at": "2025-05-30 15:24:15"
+    },
+    "C900397839": {
+        "name": "COMPA\u00d1IA DSIERRA S.A.S",
+        "updated_at": "2025-05-30 15:24:16"
+    },
+    "C900413604": {
+        "name": "COMERCIALIZADORA EL IMPERIO DE URABA S.A.S",
+        "updated_at": "2025-05-30 15:24:17"
+    },
+    "C900433054": {
+        "name": "ZAYCO S.A.S",
+        "updated_at": "2025-05-30 15:24:18"
+    },
+    "C900455898": {
+        "name": "DISTRIBUCIONES JE TIENDA A TIENDA S.A.S",
+        "updated_at": "2025-05-30 15:24:19"
+    },
+    "C900482142": {
+        "name": "CENTROFRUVER DEL LLANO S.A.S",
+        "updated_at": "2025-05-30 15:24:20"
+    },
+    "C900486577-1": {
+        "name": "DENTAL NADER SAS",
+        "updated_at": "2025-05-30 15:24:21"
+    },
+    "C900554896-1": {
+        "name": "ABATA SAS",
+        "updated_at": "2025-05-30 15:24:22"
+    },
+    "C900571595": {
+        "name": "INVERSYCON SAS",
+        "updated_at": "2025-05-30 15:24:23"
+    },
+    "C900607573-2": {
+        "name": "COMERCIALIZADORA MERCADOS MODERNOS S.A.S",
+        "updated_at": "2025-05-30 15:24:24"
+    },
+    "C900618398": {
+        "name": "SUPERMIO S.A.S",
+        "updated_at": "2025-05-30 15:24:25"
+    },
+    "C900622492": {
+        "name": "MAXIDISTRIBUCIONES DE COLOMBIA S.A.S BIC",
+        "updated_at": "2025-05-30 15:24:26"
+    },
+    "C900622537": {
+        "name": "JIN MAO S.A.S",
+        "updated_at": "2025-05-30 15:24:27"
+    },
+    "C900648001-4": {
+        "name": "ARIZUL DEL CARIBE S.A.S",
+        "updated_at": "2025-05-30 15:24:28"
+    },
+    "C900709192": {
+        "name": "SOCIEDAD G & GIRALDO S.A.S",
+        "updated_at": "2025-05-30 15:24:29"
+    },
+    "C900727931": {
+        "name": "PRODEFARMA SAS",
+        "updated_at": "2025-05-30 15:24:30"
+    },
+    "C900814358": {
+        "name": "GRUPO EMPRESARIAL AHORRAMAS S A S",
+        "updated_at": "2025-05-30 15:24:31"
+    },
+    "C900846495": {
+        "name": "INVERSIONES YENC S.A.S.",
+        "updated_at": "2025-05-30 15:24:32"
+    },
+    "C900943243": {
+        "name": "SURAMERICA COMERCIAL S.A.S",
+        "updated_at": "2025-05-30 15:24:33"
+    },
+    "C901025397": {
+        "name": "COMERCIALIZADORA ASICUC S.A.S",
+        "updated_at": "2025-05-30 15:24:34"
+    },
+    "C901035634": {
+        "name": "INVERSIONES ZARA SAS",
+        "updated_at": "2025-05-30 15:24:35"
+    },
+    "C901048724": {
+        "name": "DISTRISURTIPACK SAS",
+        "updated_at": "2025-05-30 15:24:36"
+    },
+    "C901052353": {
+        "name": "BENDICIONES CASA GRANDE SAS",
+        "updated_at": "2025-05-30 15:24:37"
+    },
+    "C901079469": {
+        "name": "ALIANZA MU\u00d1OZ GOMEZ SAS",
+        "updated_at": "2025-05-30 15:24:38"
+    },
+    "C901087322": {
+        "name": "SUPERMERCADO TITAN TAMASAGRA SAS",
+        "updated_at": "2025-05-30 15:24:39"
+    },
+    "C901088792": {
+        "name": "SUPERMERCADO MIO SAS",
+        "updated_at": "2025-05-30 15:24:40"
+    },
+    "C901100086": {
+        "name": "MERKSILVER SAS",
+        "updated_at": "2025-05-30 15:24:41"
+    },
+    "C901103766": {
+        "name": "GRUPO MOVA SAS",
+        "updated_at": "2025-05-30 15:24:42"
+    },
+    "C901122249": {
+        "name": "FEYGO S.A.S",
+        "updated_at": "2025-05-30 15:24:43"
+    },
+    "C901132074": {
+        "name": "DISTRIBUCIONES MULTIASEO H&S  S.A.S",
+        "updated_at": "2025-05-30 15:24:44"
+    },
+    "C901140160": {
+        "name": "MERCADOS SUPER MERCASUPER GUEVARA SAS",
+        "updated_at": "2025-05-30 15:24:46"
+    },
+    "C901140179": {
+        "name": "INVERSIONES DUQUIN S.A.S",
+        "updated_at": "2025-05-30 15:24:47"
+    },
+    "C901145602": {
+        "name": "GRUPO EMPRESARIAL RUBIANO NAVARRO S.A.S",
+        "updated_at": "2025-05-30 15:24:47"
+    },
+    "C901150440": {
+        "name": "SUPERMERCADOS MERKAHORRO SAS",
+        "updated_at": "2025-05-30 15:24:48"
+    },
+    "C901158423": {
+        "name": "HEGOMIX DISTRIBUCIONES S.A.S",
+        "updated_at": "2025-05-30 15:24:49"
+    },
+    "C901164842": {
+        "name": "DROGUERIA COPIFAM DE COLOMBIA SAS",
+        "updated_at": "2025-05-30 15:24:50"
+    },
+    "C901187360": {
+        "name": "MEGAECONOMICO S.A.S ZOMAC",
+        "updated_at": "2025-05-30 15:24:51"
+    },
+    "C901193481": {
+        "name": "PARRA ISAZA GRUPO INVERSIONISTA SAS",
+        "updated_at": "2025-05-30 15:24:52"
+    },
+    "C901196634": {
+        "name": "INVERSIONES IDM SAS",
+        "updated_at": "2025-05-30 15:24:53"
+    },
+    "C901197122": {
+        "name": "MERKMIOS S A S",
+        "updated_at": "2025-05-30 15:24:54"
+    },
+    "C901211910": {
+        "name": "I.P.E ZOMAC S.A.S",
+        "updated_at": "2025-05-30 15:24:55"
+    },
+    "C901214636": {
+        "name": "COMERCIALIZADORA SUPERIOR BC S.A.S",
+        "updated_at": "2025-05-30 15:24:56"
+    },
+    "C901215983": {
+        "name": "ESQUINAZO PAISA REMATES DEL CESAR S.A.S",
+        "updated_at": "2025-05-30 15:24:57"
+    },
+    "C901219074": {
+        "name": "ALMACENES BIG B S.A.S",
+        "updated_at": "2025-05-30 15:24:58"
+    },
+    "C901220256": {
+        "name": "MERCADOS CASH SAS",
+        "updated_at": "2025-05-30 15:24:59"
+    },
+    "C901226698": {
+        "name": "INVERSIONES 1YA SAS",
+        "updated_at": "2025-05-30 15:25:00"
+    },
+    "C901236390-1": {
+        "name": "BABY RETAIL S.A.S.",
+        "updated_at": "2025-05-30 15:25:01"
+    },
+    "C901243554": {
+        "name": "DISTRIBUCIONES SUPER FARMA JH PASTO SAS",
+        "updated_at": "2025-05-30 15:25:02"
+    },
+    "C901248324": {
+        "name": "SUPERMERCADO MERCANTIL EXPRESS SAS",
+        "updated_at": "2025-05-30 15:25:03"
+    },
+    "C901264229": {
+        "name": "MERCOSMETICS S.A.S",
+        "updated_at": "2025-05-30 15:25:04"
+    },
+    "C901269058": {
+        "name": "SUPERMERCADO MERKA DESCUENTOS S.A.S.",
+        "updated_at": "2025-05-30 15:25:05"
+    },
+    "C901273940": {
+        "name": "INVERSIONES ECHEVERRY TRUJILLO S.A.S",
+        "updated_at": "2025-05-30 15:25:06"
+    },
+    "C901274503": {
+        "name": "COMERCIALIZADORA JG EXPRESS S.A.S",
+        "updated_at": "2025-05-30 15:25:07"
+    },
+    "C901275129": {
+        "name": "GLOBOSHOPS SAS",
+        "updated_at": "2025-05-30 15:25:08"
+    },
+    "C901280073": {
+        "name": "DISTRISANTY S.A.S",
+        "updated_at": "2025-05-30 15:25:09"
+    },
+    "C901293770": {
+        "name": "MERCANTIL VILLAMIL S.A.S",
+        "updated_at": "2025-05-30 15:25:10"
+    },
+    "C901299445": {
+        "name": "TIENDAS GUAYACAN S.A.S",
+        "updated_at": "2025-05-30 15:25:11"
+    },
+    "C901309623": {
+        "name": "AUTOSERVICIO LA FLORESTA P.H.O S.A.S",
+        "updated_at": "2025-05-30 15:25:12"
+    },
+    "C901312259": {
+        "name": "COMUNAL INVESTIMENS SAS",
+        "updated_at": "2025-05-30 15:25:13"
+    },
+    "C901324441": {
+        "name": "SUPERMERCADO Y AUTOSERVICIOS SAN RAFAEL SAS",
+        "updated_at": "2025-05-30 15:25:14"
+    },
+    "C901336754": {
+        "name": "DISTRI ROMEL S.A.S",
+        "updated_at": "2025-05-30 15:25:15"
+    },
+    "C901338885": {
+        "name": "GRUPO EMPRESARIAL LA SEPTIMA S.A.S",
+        "updated_at": "2025-05-30 15:25:16"
+    },
+    "C901348410": {
+        "name": "SUMINISTROS Y DOTACIONES LA ROCA S.A.S",
+        "updated_at": "2025-05-30 15:25:17"
+    },
+    "C901352007": {
+        "name": "BODEGA Y SUPERMERCADO EL DESCUENTO SAS",
+        "updated_at": "2025-05-30 15:25:18"
+    },
+    "C901356352": {
+        "name": "EL CASTILLO DEL PA\u00d1AL KIDS SAS",
+        "updated_at": "2025-05-30 15:25:19"
+    },
+    "C901365423": {
+        "name": "FRESANTHA S.A.S",
+        "updated_at": "2025-05-30 15:25:20"
+    },
+    "C901370428": {
+        "name": "SUPERMERCADOS MERCACENTRO SAS",
+        "updated_at": "2025-05-30 15:25:21"
+    },
+    "C901379018": {
+        "name": "RIVERA & POTOSI MARKETS S.A.S",
+        "updated_at": "2025-05-30 15:25:22"
+    },
+    "C901388613": {
+        "name": "MERQUE + S.A.S",
+        "updated_at": "2025-05-30 15:25:23"
+    },
+    "C901391980": {
+        "name": "DUO COMERCIAL S.A.S",
+        "updated_at": "2025-05-30 15:25:24"
+    },
+    "C901398607": {
+        "name": "GRUPO COMERCIAL MECADOS LA SABANA S.A.S",
+        "updated_at": "2025-05-30 15:25:25"
+    },
+    "C901404764": {
+        "name": "MERCALOCURA S.A.S",
+        "updated_at": "2025-05-30 15:25:26"
+    },
+    "C901438859": {
+        "name": "INVERSIONES RODRIGUEZ Y CIA S.A.S",
+        "updated_at": "2025-05-30 15:25:27"
+    },
+    "C901439526": {
+        "name": "GRUPO EMPRESARIAL MAGG S.A.S",
+        "updated_at": "2025-05-30 15:25:28"
+    },
+    "C901441506": {
+        "name": "INVERSIONES DINASTIA HR S.A.S",
+        "updated_at": "2025-05-30 15:25:29"
+    },
+    "C901444272": {
+        "name": "DULMARCAS M&M S.A.S",
+        "updated_at": "2025-05-30 15:25:30"
+    },
+    "C901444486": {
+        "name": "COMPA\u00d1IA JES ZOMAC S.A.S",
+        "updated_at": "2025-05-30 15:25:31"
+    },
+    "C901455739": {
+        "name": "INVERSIONES SANTIS BOSCONIA S.A.S",
+        "updated_at": "2025-05-30 15:25:32"
+    },
+    "C901465361": {
+        "name": "ARAMAR SUPERMERCADO S.A.S",
+        "updated_at": "2025-05-30 15:25:33"
+    },
+    "C901476168": {
+        "name": "COMERCIALIZADORA Y DISTRIBUIDORA AUTOSERVICIO MERKA PREMIUMS.A.S",
+        "updated_at": "2025-05-30 15:25:34"
+    },
+    "C901491660": {
+        "name": "INDUSTRIAS BANSIR SAS",
+        "updated_at": "2025-05-30 15:25:35"
+    },
+    "C901496787": {
+        "name": "SOCIEDAD ARISTIVAS S ENC",
+        "updated_at": "2025-05-30 15:25:36"
+    },
+    "C901497121": {
+        "name": "COMERCIAL MERKAFER S.A.S",
+        "updated_at": "2025-05-30 15:25:37"
+    },
+    "C901517813": {
+        "name": "GRUPO EMPRESARIAL ABIBE ZOMAC S.A.S",
+        "updated_at": "2025-05-30 15:25:38"
+    },
+    "C901555751": {
+        "name": "SUPERMERCADO CINCO MENOS LA MARAVILLA S.A.S",
+        "updated_at": "2025-05-30 15:25:39"
+    },
+    "C901559268-4": {
+        "name": "GRUPO EMPRESARIAL BERNAL HOYOS S.A.S",
+        "updated_at": "2025-05-30 15:25:40"
+    },
+    "C9015844386": {
+        "name": "LA ABUNDANCIA GRUPO EMPRESARIAL SAS",
+        "updated_at": "2025-05-30 15:25:41"
+    },
+    "C901596354": {
+        "name": "GRUPO EMPRESARIAL SURTIMASS S.A.S.",
+        "updated_at": "2025-05-30 15:25:41"
+    },
+    "C901613496": {
+        "name": "PLAN B INVESTMENTS S.A.S",
+        "updated_at": "2025-05-30 15:25:43"
+    },
+    "C901625405": {
+        "name": "MERCAEXITO LA 20 S.A.S",
+        "updated_at": "2025-05-30 15:25:44"
+    },
+    "C901640222": {
+        "name": "INVERSIONES PAGUEMENOS S.A.S",
+        "updated_at": "2025-05-30 15:25:45"
+    },
+    "C901646534": {
+        "name": "MODA ELITE BAZURTO S.A.S",
+        "updated_at": "2025-05-30 15:25:46"
+    },
+    "C901657596": {
+        "name": "SUPERMARKET EL IMPERIO S.A.S",
+        "updated_at": "2025-05-30 15:25:47"
+    },
+    "C901663086": {
+        "name": "K -LU DE COLOMBIA S.A.S",
+        "updated_at": "2025-05-30 15:25:48"
+    },
+    "C901668959": {
+        "name": "MEGA OFERTAS PASEO BOLIVAR S.A.S",
+        "updated_at": "2025-05-30 15:25:49"
+    },
+    "C901695202": {
+        "name": "INVERSIONES MERK-TODO ZOMAC S.A.S",
+        "updated_at": "2025-05-30 15:25:50"
+    },
+    "C901703185": {
+        "name": "MI ECONOMIA S.A.S",
+        "updated_at": "2025-05-30 15:25:51"
+    },
+    "C901766468": {
+        "name": "INVERSIONES GLOBAL 2 SAS",
+        "updated_at": "2025-05-30 15:25:52"
+    },
+    "C901767801": {
+        "name": "INVERSIONES GLOBAL 1 S.A.S",
+        "updated_at": "2025-05-30 15:25:53"
+    },
+    "C901799104": {
+        "name": "MERCADOS MONARCA ZOMAC S.A.S",
+        "updated_at": "2025-05-30 15:25:54"
+    },
+    "C901807185": {
+        "name": "TIENDAS EL IMPERIO S.A.S",
+        "updated_at": "2025-05-30 15:25:54"
+    },
+    "C901827664": {
+        "name": "SUPERMERCADO MAYORISTA MAS S.A.S",
+        "updated_at": "2025-05-30 15:25:55"
+    },
+    "C901840848": {
+        "name": "DISTRIBUCIONES MOLINA J.A ZOMAC S.A.S",
+        "updated_at": "2025-05-30 15:25:56"
+    },
+    "C901928348": {
+        "name": "INVERSIONES BOLIVARCITY SAS",
+        "updated_at": "2025-05-30 15:25:57"
+    },
+    "C91013176-2": {
+        "name": "ARDILA GONZALEZ IVAN",
+        "updated_at": "2025-05-30 15:25:58"
+    },
+    "C91211836": {
+        "name": "PEREZ ORTIZ EDUARDO",
+        "updated_at": "2025-05-30 15:26:00"
+    },
+    "C91498764": {
+        "name": "GOMEZ HERNANDEZ OSCAR",
+        "updated_at": "2025-05-30 15:26:01"
+    },
+    "C93348524": {
+        "name": "CASTILLA HERNANDEZ DAIRO",
+        "updated_at": "2025-05-30 15:26:02"
+    },
+    "C94427979": {
+        "name": "GIRALDO LOPEZ EDWIN RAMON",
+        "updated_at": "2025-05-30 15:26:03"
+    },
+    "C98399022": {
+        "name": "LARA CEBALLOS JULIAN ADELMO",
+        "updated_at": "2025-05-30 15:26:04"
+    },
+    "M22634286": {
+        "name": "VILORIA URUETA MERCEDES JUDITH",
+        "updated_at": "2025-05-30 15:26:05"
+    },
+    "M38551534": {
+        "name": "CABEZAS AGREDO YENNY LILIANA",
+        "updated_at": "2025-05-30 15:26:06"
+    },
+    "M70828433": {
+        "name": "QUINTERO GOMEZ CESAR AUGUSTO",
+        "updated_at": "2025-05-30 15:26:07"
+    },
+    "M900227193": {
+        "name": "FUNDACION MILPA",
+        "updated_at": "2025-05-30 15:26:08"
+    },
+    "M900770336": {
+        "name": "PAPELERIA EL PING\u00dcINO S.A.S.",
+        "updated_at": "2025-05-30 15:26:09"
+    },
+    "M900957356": {
+        "name": "SAHA GROUP SAS",
+        "updated_at": "2025-05-30 15:26:10"
+    },
+    "M901928348": {
+        "name": "INVERSIONES BOLIVARCITY SAS",
+        "updated_at": "2025-05-30 15:26:11"
+    }
+}
